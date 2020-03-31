@@ -8,7 +8,7 @@ import {
   JsfiFormElement,
   JsfiInput,
   JsfiButton
-} from "stencil-react";
+} from "stencil-react-ui-component";
 
 function App() {
   return (
