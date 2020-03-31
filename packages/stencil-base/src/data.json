@@ -1,0 +1,8810 @@
+{
+  "icons": [
+    {
+      "name": "add",
+      "tags": [
+        "add"
+      ]
+    },
+    {
+      "name": "add-circle",
+      "tags": [
+        "add",
+        "circle"
+      ]
+    },
+    {
+      "name": "add-circle-outline",
+      "tags": [
+        "add",
+        "circle",
+        "outline"
+      ]
+    },
+    {
+      "name": "add-circle-sharp",
+      "tags": [
+        "add",
+        "circle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "add-outline",
+      "tags": [
+        "add",
+        "outline"
+      ]
+    },
+    {
+      "name": "add-sharp",
+      "tags": [
+        "add",
+        "sharp"
+      ]
+    },
+    {
+      "name": "airplane",
+      "tags": [
+        "airplane"
+      ]
+    },
+    {
+      "name": "airplane-outline",
+      "tags": [
+        "airplane",
+        "outline"
+      ]
+    },
+    {
+      "name": "airplane-sharp",
+      "tags": [
+        "airplane",
+        "sharp"
+      ]
+    },
+    {
+      "name": "alarm",
+      "tags": [
+        "alarm"
+      ]
+    },
+    {
+      "name": "alarm-outline",
+      "tags": [
+        "alarm",
+        "outline"
+      ]
+    },
+    {
+      "name": "alarm-sharp",
+      "tags": [
+        "alarm",
+        "sharp"
+      ]
+    },
+    {
+      "name": "albums",
+      "tags": [
+        "albums"
+      ]
+    },
+    {
+      "name": "albums-outline",
+      "tags": [
+        "albums",
+        "outline"
+      ]
+    },
+    {
+      "name": "albums-sharp",
+      "tags": [
+        "albums",
+        "sharp"
+      ]
+    },
+    {
+      "name": "alert",
+      "tags": [
+        "alert"
+      ]
+    },
+    {
+      "name": "alert-circle",
+      "tags": [
+        "alert",
+        "circle"
+      ]
+    },
+    {
+      "name": "alert-circle-outline",
+      "tags": [
+        "alert",
+        "circle",
+        "outline"
+      ]
+    },
+    {
+      "name": "alert-circle-sharp",
+      "tags": [
+        "alert",
+        "circle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "alert-outline",
+      "tags": [
+        "alert",
+        "outline"
+      ]
+    },
+    {
+      "name": "alert-sharp",
+      "tags": [
+        "alert",
+        "sharp"
+      ]
+    },
+    {
+      "name": "american-football",
+      "tags": [
+        "american",
+        "football"
+      ]
+    },
+    {
+      "name": "american-football-outline",
+      "tags": [
+        "american",
+        "football",
+        "outline"
+      ]
+    },
+    {
+      "name": "american-football-sharp",
+      "tags": [
+        "american",
+        "football",
+        "sharp"
+      ]
+    },
+    {
+      "name": "analytics",
+      "tags": [
+        "analytics"
+      ]
+    },
+    {
+      "name": "analytics-outline",
+      "tags": [
+        "analytics",
+        "outline"
+      ]
+    },
+    {
+      "name": "analytics-sharp",
+      "tags": [
+        "analytics",
+        "sharp"
+      ]
+    },
+    {
+      "name": "aperture",
+      "tags": [
+        "aperture"
+      ]
+    },
+    {
+      "name": "aperture-outline",
+      "tags": [
+        "aperture",
+        "outline"
+      ]
+    },
+    {
+      "name": "aperture-sharp",
+      "tags": [
+        "aperture",
+        "sharp"
+      ]
+    },
+    {
+      "name": "apps",
+      "tags": [
+        "apps"
+      ]
+    },
+    {
+      "name": "apps-outline",
+      "tags": [
+        "apps",
+        "outline"
+      ]
+    },
+    {
+      "name": "apps-sharp",
+      "tags": [
+        "apps",
+        "sharp"
+      ]
+    },
+    {
+      "name": "archive",
+      "tags": [
+        "archive"
+      ]
+    },
+    {
+      "name": "archive-outline",
+      "tags": [
+        "archive",
+        "outline"
+      ]
+    },
+    {
+      "name": "archive-sharp",
+      "tags": [
+        "archive",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-back",
+      "tags": [
+        "arrow",
+        "back"
+      ]
+    },
+    {
+      "name": "arrow-back-circle",
+      "tags": [
+        "arrow",
+        "back",
+        "circle"
+      ]
+    },
+    {
+      "name": "arrow-back-circle-outline",
+      "tags": [
+        "arrow",
+        "back",
+        "circle",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-back-circle-sharp",
+      "tags": [
+        "arrow",
+        "back",
+        "circle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-back-outline",
+      "tags": [
+        "arrow",
+        "back",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-back-sharp",
+      "tags": [
+        "arrow",
+        "back",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-down",
+      "tags": [
+        "arrow",
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-down-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-down-circle-outline",
+      "tags": [
+        "arrow",
+        "circle",
+        "down",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-down-circle-sharp",
+      "tags": [
+        "arrow",
+        "circle",
+        "down",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-down-outline",
+      "tags": [
+        "arrow",
+        "down",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-down-sharp",
+      "tags": [
+        "arrow",
+        "down",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-forward",
+      "tags": [
+        "arrow",
+        "forward"
+      ]
+    },
+    {
+      "name": "arrow-forward-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "forward"
+      ]
+    },
+    {
+      "name": "arrow-forward-circle-outline",
+      "tags": [
+        "arrow",
+        "circle",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-forward-circle-sharp",
+      "tags": [
+        "arrow",
+        "circle",
+        "forward",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-forward-outline",
+      "tags": [
+        "arrow",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-forward-sharp",
+      "tags": [
+        "arrow",
+        "forward",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-redo",
+      "tags": [
+        "arrow",
+        "redo"
+      ]
+    },
+    {
+      "name": "arrow-redo-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "redo"
+      ]
+    },
+    {
+      "name": "arrow-redo-circle-outline",
+      "tags": [
+        "arrow",
+        "circle",
+        "outline",
+        "redo"
+      ]
+    },
+    {
+      "name": "arrow-redo-circle-sharp",
+      "tags": [
+        "arrow",
+        "circle",
+        "redo",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-redo-outline",
+      "tags": [
+        "arrow",
+        "outline",
+        "redo"
+      ]
+    },
+    {
+      "name": "arrow-redo-sharp",
+      "tags": [
+        "arrow",
+        "redo",
+        "sharp"
+      ]
+    },
+    {
+      "name": "arrow-undo",
+      "tags": [
+        "arrow",
+        "undo"
+      ]
+    },
+    {
+      "name": "arrow-undo-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "undo"
+      ]
+    },
+    {
+      "name": "arrow-undo-circle-outline",
+      "tags": [
+        "arrow",
+        "circle",
+        "outline",
+        "undo"
+      ]
+    },
+    {
+      "name": "arrow-undo-circle-sharp",
+      "tags": [
+        "arrow",
+        "circle",
+        "sharp",
+        "undo"
+      ]
+    },
+    {
+      "name": "arrow-undo-outline",
+      "tags": [
+        "arrow",
+        "outline",
+        "undo"
+      ]
+    },
+    {
+      "name": "arrow-undo-sharp",
+      "tags": [
+        "arrow",
+        "sharp",
+        "undo"
+      ]
+    },
+    {
+      "name": "arrow-up",
+      "tags": [
+        "arrow",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-up-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-up-circle-outline",
+      "tags": [
+        "arrow",
+        "circle",
+        "outline",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-up-circle-sharp",
+      "tags": [
+        "arrow",
+        "circle",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-up-outline",
+      "tags": [
+        "arrow",
+        "outline",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-up-sharp",
+      "tags": [
+        "arrow",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "at",
+      "tags": [
+        "at"
+      ]
+    },
+    {
+      "name": "at-circle",
+      "tags": [
+        "at",
+        "circle"
+      ]
+    },
+    {
+      "name": "at-circle-outline",
+      "tags": [
+        "at",
+        "circle",
+        "outline"
+      ]
+    },
+    {
+      "name": "at-circle-sharp",
+      "tags": [
+        "at",
+        "circle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "at-outline",
+      "tags": [
+        "at",
+        "outline"
+      ]
+    },
+    {
+      "name": "at-sharp",
+      "tags": [
+        "at",
+        "sharp"
+      ]
+    },
+    {
+      "name": "attach",
+      "tags": [
+        "attach"
+      ]
+    },
+    {
+      "name": "attach-outline",
+      "tags": [
+        "attach",
+        "outline"
+      ]
+    },
+    {
+      "name": "attach-sharp",
+      "tags": [
+        "attach",
+        "sharp"
+      ]
+    },
+    {
+      "name": "backspace",
+      "tags": [
+        "backspace"
+      ]
+    },
+    {
+      "name": "backspace-outline",
+      "tags": [
+        "backspace",
+        "outline"
+      ]
+    },
+    {
+      "name": "backspace-sharp",
+      "tags": [
+        "backspace",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bandage",
+      "tags": [
+        "bandage"
+      ]
+    },
+    {
+      "name": "bandage-outline",
+      "tags": [
+        "bandage",
+        "outline"
+      ]
+    },
+    {
+      "name": "bandage-sharp",
+      "tags": [
+        "bandage",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bar-chart",
+      "tags": [
+        "bar",
+        "chart"
+      ]
+    },
+    {
+      "name": "bar-chart-outline",
+      "tags": [
+        "bar",
+        "chart",
+        "outline"
+      ]
+    },
+    {
+      "name": "bar-chart-sharp",
+      "tags": [
+        "bar",
+        "chart",
+        "sharp"
+      ]
+    },
+    {
+      "name": "barbell",
+      "tags": [
+        "barbell"
+      ]
+    },
+    {
+      "name": "barbell-outline",
+      "tags": [
+        "barbell",
+        "outline"
+      ]
+    },
+    {
+      "name": "barbell-sharp",
+      "tags": [
+        "barbell",
+        "sharp"
+      ]
+    },
+    {
+      "name": "barcode",
+      "tags": [
+        "barcode"
+      ]
+    },
+    {
+      "name": "barcode-outline",
+      "tags": [
+        "barcode",
+        "outline"
+      ]
+    },
+    {
+      "name": "barcode-sharp",
+      "tags": [
+        "barcode",
+        "sharp"
+      ]
+    },
+    {
+      "name": "baseball",
+      "tags": [
+        "baseball"
+      ]
+    },
+    {
+      "name": "baseball-outline",
+      "tags": [
+        "baseball",
+        "outline"
+      ]
+    },
+    {
+      "name": "baseball-sharp",
+      "tags": [
+        "baseball",
+        "sharp"
+      ]
+    },
+    {
+      "name": "basket",
+      "tags": [
+        "basket"
+      ]
+    },
+    {
+      "name": "basket-outline",
+      "tags": [
+        "basket",
+        "outline"
+      ]
+    },
+    {
+      "name": "basket-sharp",
+      "tags": [
+        "basket",
+        "sharp"
+      ]
+    },
+    {
+      "name": "basketball",
+      "tags": [
+        "basketball"
+      ]
+    },
+    {
+      "name": "basketball-outline",
+      "tags": [
+        "basketball",
+        "outline"
+      ]
+    },
+    {
+      "name": "basketball-sharp",
+      "tags": [
+        "basketball",
+        "sharp"
+      ]
+    },
+    {
+      "name": "battery-charging",
+      "tags": [
+        "battery",
+        "charging"
+      ]
+    },
+    {
+      "name": "battery-charging-outline",
+      "tags": [
+        "battery",
+        "charging",
+        "outline"
+      ]
+    },
+    {
+      "name": "battery-charging-sharp",
+      "tags": [
+        "battery",
+        "charging",
+        "sharp"
+      ]
+    },
+    {
+      "name": "battery-dead",
+      "tags": [
+        "battery",
+        "dead"
+      ]
+    },
+    {
+      "name": "battery-dead-outline",
+      "tags": [
+        "battery",
+        "dead",
+        "outline"
+      ]
+    },
+    {
+      "name": "battery-dead-sharp",
+      "tags": [
+        "battery",
+        "dead",
+        "sharp"
+      ]
+    },
+    {
+      "name": "battery-full",
+      "tags": [
+        "battery",
+        "full"
+      ]
+    },
+    {
+      "name": "battery-full-outline",
+      "tags": [
+        "battery",
+        "full",
+        "outline"
+      ]
+    },
+    {
+      "name": "battery-full-sharp",
+      "tags": [
+        "battery",
+        "full",
+        "sharp"
+      ]
+    },
+    {
+      "name": "battery-half",
+      "tags": [
+        "battery",
+        "half"
+      ]
+    },
+    {
+      "name": "battery-half-outline",
+      "tags": [
+        "battery",
+        "half",
+        "outline"
+      ]
+    },
+    {
+      "name": "battery-half-sharp",
+      "tags": [
+        "battery",
+        "half",
+        "sharp"
+      ]
+    },
+    {
+      "name": "beaker",
+      "tags": [
+        "beaker"
+      ]
+    },
+    {
+      "name": "beaker-outline",
+      "tags": [
+        "beaker",
+        "outline"
+      ]
+    },
+    {
+      "name": "beaker-sharp",
+      "tags": [
+        "beaker",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bed",
+      "tags": [
+        "bed"
+      ]
+    },
+    {
+      "name": "bed-outline",
+      "tags": [
+        "bed",
+        "outline"
+      ]
+    },
+    {
+      "name": "bed-sharp",
+      "tags": [
+        "bed",
+        "sharp"
+      ]
+    },
+    {
+      "name": "beer",
+      "tags": [
+        "beer"
+      ]
+    },
+    {
+      "name": "beer-outline",
+      "tags": [
+        "beer",
+        "outline"
+      ]
+    },
+    {
+      "name": "beer-sharp",
+      "tags": [
+        "beer",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bicycle",
+      "tags": [
+        "bicycle"
+      ]
+    },
+    {
+      "name": "bicycle-outline",
+      "tags": [
+        "bicycle",
+        "outline"
+      ]
+    },
+    {
+      "name": "bicycle-sharp",
+      "tags": [
+        "bicycle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bluetooth",
+      "tags": [
+        "bluetooth"
+      ]
+    },
+    {
+      "name": "bluetooth-outline",
+      "tags": [
+        "bluetooth",
+        "outline"
+      ]
+    },
+    {
+      "name": "bluetooth-sharp",
+      "tags": [
+        "bluetooth",
+        "sharp"
+      ]
+    },
+    {
+      "name": "boat",
+      "tags": [
+        "boat"
+      ]
+    },
+    {
+      "name": "boat-outline",
+      "tags": [
+        "boat",
+        "outline"
+      ]
+    },
+    {
+      "name": "boat-sharp",
+      "tags": [
+        "boat",
+        "sharp"
+      ]
+    },
+    {
+      "name": "body",
+      "tags": [
+        "body"
+      ]
+    },
+    {
+      "name": "body-outline",
+      "tags": [
+        "body",
+        "outline"
+      ]
+    },
+    {
+      "name": "body-sharp",
+      "tags": [
+        "body",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bonfire",
+      "tags": [
+        "bonfire"
+      ]
+    },
+    {
+      "name": "bonfire-outline",
+      "tags": [
+        "bonfire",
+        "outline"
+      ]
+    },
+    {
+      "name": "bonfire-sharp",
+      "tags": [
+        "bonfire",
+        "sharp"
+      ]
+    },
+    {
+      "name": "book",
+      "tags": [
+        "book"
+      ]
+    },
+    {
+      "name": "book-outline",
+      "tags": [
+        "book",
+        "outline"
+      ]
+    },
+    {
+      "name": "book-sharp",
+      "tags": [
+        "book",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bookmark",
+      "tags": [
+        "bookmark"
+      ]
+    },
+    {
+      "name": "bookmark-outline",
+      "tags": [
+        "bookmark",
+        "outline"
+      ]
+    },
+    {
+      "name": "bookmark-sharp",
+      "tags": [
+        "bookmark",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bookmarks",
+      "tags": [
+        "bookmarks"
+      ]
+    },
+    {
+      "name": "bookmarks-outline",
+      "tags": [
+        "bookmarks",
+        "outline"
+      ]
+    },
+    {
+      "name": "bookmarks-sharp",
+      "tags": [
+        "bookmarks",
+        "sharp"
+      ]
+    },
+    {
+      "name": "briefcase",
+      "tags": [
+        "briefcase"
+      ]
+    },
+    {
+      "name": "briefcase-outline",
+      "tags": [
+        "briefcase",
+        "outline"
+      ]
+    },
+    {
+      "name": "briefcase-sharp",
+      "tags": [
+        "briefcase",
+        "sharp"
+      ]
+    },
+    {
+      "name": "browsers",
+      "tags": [
+        "browsers"
+      ]
+    },
+    {
+      "name": "browsers-outline",
+      "tags": [
+        "browsers",
+        "outline"
+      ]
+    },
+    {
+      "name": "browsers-sharp",
+      "tags": [
+        "browsers",
+        "sharp"
+      ]
+    },
+    {
+      "name": "brush",
+      "tags": [
+        "brush"
+      ]
+    },
+    {
+      "name": "brush-outline",
+      "tags": [
+        "brush",
+        "outline"
+      ]
+    },
+    {
+      "name": "brush-sharp",
+      "tags": [
+        "brush",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bug",
+      "tags": [
+        "bug"
+      ]
+    },
+    {
+      "name": "bug-outline",
+      "tags": [
+        "bug",
+        "outline"
+      ]
+    },
+    {
+      "name": "bug-sharp",
+      "tags": [
+        "bug",
+        "sharp"
+      ]
+    },
+    {
+      "name": "build",
+      "tags": [
+        "build"
+      ]
+    },
+    {
+      "name": "build-outline",
+      "tags": [
+        "build",
+        "outline"
+      ]
+    },
+    {
+      "name": "build-sharp",
+      "tags": [
+        "build",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bulb",
+      "tags": [
+        "bulb"
+      ]
+    },
+    {
+      "name": "bulb-outline",
+      "tags": [
+        "bulb",
+        "outline"
+      ]
+    },
+    {
+      "name": "bulb-sharp",
+      "tags": [
+        "bulb",
+        "sharp"
+      ]
+    },
+    {
+      "name": "bus",
+      "tags": [
+        "bus"
+      ]
+    },
+    {
+      "name": "bus-outline",
+      "tags": [
+        "bus",
+        "outline"
+      ]
+    },
+    {
+      "name": "bus-sharp",
+      "tags": [
+        "bus",
+        "sharp"
+      ]
+    },
+    {
+      "name": "business",
+      "tags": [
+        "business"
+      ]
+    },
+    {
+      "name": "business-outline",
+      "tags": [
+        "business",
+        "outline"
+      ]
+    },
+    {
+      "name": "business-sharp",
+      "tags": [
+        "business",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cafe",
+      "tags": [
+        "cafe"
+      ]
+    },
+    {
+      "name": "cafe-outline",
+      "tags": [
+        "cafe",
+        "outline"
+      ]
+    },
+    {
+      "name": "cafe-sharp",
+      "tags": [
+        "cafe",
+        "sharp"
+      ]
+    },
+    {
+      "name": "calculator",
+      "tags": [
+        "calculator"
+      ]
+    },
+    {
+      "name": "calculator-outline",
+      "tags": [
+        "calculator",
+        "outline"
+      ]
+    },
+    {
+      "name": "calculator-sharp",
+      "tags": [
+        "calculator",
+        "sharp"
+      ]
+    },
+    {
+      "name": "calendar",
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "name": "calendar-outline",
+      "tags": [
+        "calendar",
+        "outline"
+      ]
+    },
+    {
+      "name": "calendar-sharp",
+      "tags": [
+        "calendar",
+        "sharp"
+      ]
+    },
+    {
+      "name": "call",
+      "tags": [
+        "call"
+      ]
+    },
+    {
+      "name": "call-outline",
+      "tags": [
+        "call",
+        "outline"
+      ]
+    },
+    {
+      "name": "call-sharp",
+      "tags": [
+        "call",
+        "sharp"
+      ]
+    },
+    {
+      "name": "camera",
+      "tags": [
+        "camera"
+      ]
+    },
+    {
+      "name": "camera-outline",
+      "tags": [
+        "camera",
+        "outline"
+      ]
+    },
+    {
+      "name": "camera-reverse",
+      "tags": [
+        "camera",
+        "reverse"
+      ]
+    },
+    {
+      "name": "camera-reverse-outline",
+      "tags": [
+        "camera",
+        "outline",
+        "reverse"
+      ]
+    },
+    {
+      "name": "camera-reverse-sharp",
+      "tags": [
+        "camera",
+        "reverse",
+        "sharp"
+      ]
+    },
+    {
+      "name": "camera-sharp",
+      "tags": [
+        "camera",
+        "sharp"
+      ]
+    },
+    {
+      "name": "car",
+      "tags": [
+        "car"
+      ]
+    },
+    {
+      "name": "car-outline",
+      "tags": [
+        "car",
+        "outline"
+      ]
+    },
+    {
+      "name": "car-sharp",
+      "tags": [
+        "car",
+        "sharp"
+      ]
+    },
+    {
+      "name": "car-sport",
+      "tags": [
+        "car",
+        "sport"
+      ]
+    },
+    {
+      "name": "car-sport-outline",
+      "tags": [
+        "car",
+        "outline",
+        "sport"
+      ]
+    },
+    {
+      "name": "car-sport-sharp",
+      "tags": [
+        "car",
+        "sharp",
+        "sport"
+      ]
+    },
+    {
+      "name": "card",
+      "tags": [
+        "card"
+      ]
+    },
+    {
+      "name": "card-outline",
+      "tags": [
+        "card",
+        "outline"
+      ]
+    },
+    {
+      "name": "card-sharp",
+      "tags": [
+        "card",
+        "sharp"
+      ]
+    },
+    {
+      "name": "caret-back",
+      "tags": [
+        "back",
+        "caret"
+      ]
+    },
+    {
+      "name": "caret-back-circle",
+      "tags": [
+        "back",
+        "caret",
+        "circle"
+      ]
+    },
+    {
+      "name": "caret-back-circle-outline",
+      "tags": [
+        "back",
+        "caret",
+        "circle",
+        "outline"
+      ]
+    },
+    {
+      "name": "caret-back-circle-sharp",
+      "tags": [
+        "back",
+        "caret",
+        "circle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "caret-back-outline",
+      "tags": [
+        "back",
+        "caret",
+        "outline"
+      ]
+    },
+    {
+      "name": "caret-back-sharp",
+      "tags": [
+        "back",
+        "caret",
+        "sharp"
+      ]
+    },
+    {
+      "name": "caret-down",
+      "tags": [
+        "caret",
+        "down"
+      ]
+    },
+    {
+      "name": "caret-down-circle",
+      "tags": [
+        "caret",
+        "circle",
+        "down"
+      ]
+    },
+    {
+      "name": "caret-down-circle-outline",
+      "tags": [
+        "caret",
+        "circle",
+        "down",
+        "outline"
+      ]
+    },
+    {
+      "name": "caret-down-circle-sharp",
+      "tags": [
+        "caret",
+        "circle",
+        "down",
+        "sharp"
+      ]
+    },
+    {
+      "name": "caret-down-outline",
+      "tags": [
+        "caret",
+        "down",
+        "outline"
+      ]
+    },
+    {
+      "name": "caret-down-sharp",
+      "tags": [
+        "caret",
+        "down",
+        "sharp"
+      ]
+    },
+    {
+      "name": "caret-forward",
+      "tags": [
+        "caret",
+        "forward"
+      ]
+    },
+    {
+      "name": "caret-forward-circle",
+      "tags": [
+        "caret",
+        "circle",
+        "forward"
+      ]
+    },
+    {
+      "name": "caret-forward-circle-outline",
+      "tags": [
+        "caret",
+        "circle",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "caret-forward-circle-sharp",
+      "tags": [
+        "caret",
+        "circle",
+        "forward",
+        "sharp"
+      ]
+    },
+    {
+      "name": "caret-forward-outline",
+      "tags": [
+        "caret",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "caret-forward-sharp",
+      "tags": [
+        "caret",
+        "forward",
+        "sharp"
+      ]
+    },
+    {
+      "name": "caret-up",
+      "tags": [
+        "caret",
+        "up"
+      ]
+    },
+    {
+      "name": "caret-up-circle",
+      "tags": [
+        "caret",
+        "circle",
+        "up"
+      ]
+    },
+    {
+      "name": "caret-up-circle-outline",
+      "tags": [
+        "caret",
+        "circle",
+        "outline",
+        "up"
+      ]
+    },
+    {
+      "name": "caret-up-circle-sharp",
+      "tags": [
+        "caret",
+        "circle",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "caret-up-outline",
+      "tags": [
+        "caret",
+        "outline",
+        "up"
+      ]
+    },
+    {
+      "name": "caret-up-sharp",
+      "tags": [
+        "caret",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "cart",
+      "tags": [
+        "cart"
+      ]
+    },
+    {
+      "name": "cart-outline",
+      "tags": [
+        "cart",
+        "outline"
+      ]
+    },
+    {
+      "name": "cart-sharp",
+      "tags": [
+        "cart",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cash",
+      "tags": [
+        "cash"
+      ]
+    },
+    {
+      "name": "cash-outline",
+      "tags": [
+        "cash",
+        "outline"
+      ]
+    },
+    {
+      "name": "cash-sharp",
+      "tags": [
+        "cash",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cellular",
+      "tags": [
+        "cellular"
+      ]
+    },
+    {
+      "name": "cellular-outline",
+      "tags": [
+        "cellular",
+        "outline"
+      ]
+    },
+    {
+      "name": "cellular-sharp",
+      "tags": [
+        "cellular",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chatbox",
+      "tags": [
+        "chatbox"
+      ]
+    },
+    {
+      "name": "chatbox-ellipses",
+      "tags": [
+        "chatbox",
+        "ellipses"
+      ]
+    },
+    {
+      "name": "chatbox-ellipses-outline",
+      "tags": [
+        "chatbox",
+        "ellipses",
+        "outline"
+      ]
+    },
+    {
+      "name": "chatbox-ellipses-sharp",
+      "tags": [
+        "chatbox",
+        "ellipses",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chatbox-outline",
+      "tags": [
+        "chatbox",
+        "outline"
+      ]
+    },
+    {
+      "name": "chatbox-sharp",
+      "tags": [
+        "chatbox",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chatbubble",
+      "tags": [
+        "chatbubble"
+      ]
+    },
+    {
+      "name": "chatbubble-ellipses",
+      "tags": [
+        "chatbubble",
+        "ellipses"
+      ]
+    },
+    {
+      "name": "chatbubble-ellipses-outline",
+      "tags": [
+        "chatbubble",
+        "ellipses",
+        "outline"
+      ]
+    },
+    {
+      "name": "chatbubble-ellipses-sharp",
+      "tags": [
+        "chatbubble",
+        "ellipses",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chatbubble-outline",
+      "tags": [
+        "chatbubble",
+        "outline"
+      ]
+    },
+    {
+      "name": "chatbubble-sharp",
+      "tags": [
+        "chatbubble",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chatbubbles",
+      "tags": [
+        "chatbubbles"
+      ]
+    },
+    {
+      "name": "chatbubbles-outline",
+      "tags": [
+        "chatbubbles",
+        "outline"
+      ]
+    },
+    {
+      "name": "chatbubbles-sharp",
+      "tags": [
+        "chatbubbles",
+        "sharp"
+      ]
+    },
+    {
+      "name": "checkbox",
+      "tags": [
+        "checkbox"
+      ]
+    },
+    {
+      "name": "checkbox-outline",
+      "tags": [
+        "checkbox",
+        "outline"
+      ]
+    },
+    {
+      "name": "checkbox-sharp",
+      "tags": [
+        "checkbox",
+        "sharp"
+      ]
+    },
+    {
+      "name": "checkmark",
+      "tags": [
+        "checkmark"
+      ]
+    },
+    {
+      "name": "checkmark-circle",
+      "tags": [
+        "checkmark",
+        "circle"
+      ]
+    },
+    {
+      "name": "checkmark-circle-outline",
+      "tags": [
+        "checkmark",
+        "circle",
+        "outline"
+      ]
+    },
+    {
+      "name": "checkmark-circle-sharp",
+      "tags": [
+        "checkmark",
+        "circle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "checkmark-done",
+      "tags": [
+        "checkmark",
+        "done"
+      ]
+    },
+    {
+      "name": "checkmark-done-circle",
+      "tags": [
+        "checkmark",
+        "circle",
+        "done"
+      ]
+    },
+    {
+      "name": "checkmark-done-circle-outline",
+      "tags": [
+        "checkmark",
+        "circle",
+        "done",
+        "outline"
+      ]
+    },
+    {
+      "name": "checkmark-done-circle-sharp",
+      "tags": [
+        "checkmark",
+        "circle",
+        "done",
+        "sharp"
+      ]
+    },
+    {
+      "name": "checkmark-done-outline",
+      "tags": [
+        "checkmark",
+        "done",
+        "outline"
+      ]
+    },
+    {
+      "name": "checkmark-done-sharp",
+      "tags": [
+        "checkmark",
+        "done",
+        "sharp"
+      ]
+    },
+    {
+      "name": "checkmark-outline",
+      "tags": [
+        "checkmark",
+        "outline"
+      ]
+    },
+    {
+      "name": "checkmark-sharp",
+      "tags": [
+        "checkmark",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chevron-back",
+      "tags": [
+        "back",
+        "chevron"
+      ]
+    },
+    {
+      "name": "chevron-back-circle",
+      "tags": [
+        "back",
+        "chevron",
+        "circle"
+      ]
+    },
+    {
+      "name": "chevron-back-circle-outline",
+      "tags": [
+        "back",
+        "chevron",
+        "circle",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-back-circle-sharp",
+      "tags": [
+        "back",
+        "chevron",
+        "circle",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chevron-back-outline",
+      "tags": [
+        "back",
+        "chevron",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-back-sharp",
+      "tags": [
+        "back",
+        "chevron",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chevron-down",
+      "tags": [
+        "chevron",
+        "down"
+      ]
+    },
+    {
+      "name": "chevron-down-circle",
+      "tags": [
+        "chevron",
+        "circle",
+        "down"
+      ]
+    },
+    {
+      "name": "chevron-down-circle-outline",
+      "tags": [
+        "chevron",
+        "circle",
+        "down",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-down-circle-sharp",
+      "tags": [
+        "chevron",
+        "circle",
+        "down",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chevron-down-outline",
+      "tags": [
+        "chevron",
+        "down",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-down-sharp",
+      "tags": [
+        "chevron",
+        "down",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chevron-forward",
+      "tags": [
+        "chevron",
+        "forward"
+      ]
+    },
+    {
+      "name": "chevron-forward-circle",
+      "tags": [
+        "chevron",
+        "circle",
+        "forward"
+      ]
+    },
+    {
+      "name": "chevron-forward-circle-outline",
+      "tags": [
+        "chevron",
+        "circle",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-forward-circle-sharp",
+      "tags": [
+        "chevron",
+        "circle",
+        "forward",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chevron-forward-outline",
+      "tags": [
+        "chevron",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-forward-sharp",
+      "tags": [
+        "chevron",
+        "forward",
+        "sharp"
+      ]
+    },
+    {
+      "name": "chevron-up",
+      "tags": [
+        "chevron",
+        "up"
+      ]
+    },
+    {
+      "name": "chevron-up-circle",
+      "tags": [
+        "chevron",
+        "circle",
+        "up"
+      ]
+    },
+    {
+      "name": "chevron-up-circle-outline",
+      "tags": [
+        "chevron",
+        "circle",
+        "outline",
+        "up"
+      ]
+    },
+    {
+      "name": "chevron-up-circle-sharp",
+      "tags": [
+        "chevron",
+        "circle",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "chevron-up-outline",
+      "tags": [
+        "chevron",
+        "outline",
+        "up"
+      ]
+    },
+    {
+      "name": "chevron-up-sharp",
+      "tags": [
+        "chevron",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "clipboard",
+      "tags": [
+        "clipboard"
+      ]
+    },
+    {
+      "name": "clipboard-outline",
+      "tags": [
+        "clipboard",
+        "outline"
+      ]
+    },
+    {
+      "name": "clipboard-sharp",
+      "tags": [
+        "clipboard",
+        "sharp"
+      ]
+    },
+    {
+      "name": "close",
+      "tags": [
+        "close"
+      ]
+    },
+    {
+      "name": "close-circle",
+      "tags": [
+        "circle",
+        "close"
+      ]
+    },
+    {
+      "name": "close-circle-outline",
+      "tags": [
+        "circle",
+        "close",
+        "outline"
+      ]
+    },
+    {
+      "name": "close-circle-sharp",
+      "tags": [
+        "circle",
+        "close",
+        "sharp"
+      ]
+    },
+    {
+      "name": "close-outline",
+      "tags": [
+        "close",
+        "outline"
+      ]
+    },
+    {
+      "name": "close-sharp",
+      "tags": [
+        "close",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cloud",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "cloud-circle",
+      "tags": [
+        "circle",
+        "cloud"
+      ]
+    },
+    {
+      "name": "cloud-circle-outline",
+      "tags": [
+        "circle",
+        "cloud",
+        "outline"
+      ]
+    },
+    {
+      "name": "cloud-circle-sharp",
+      "tags": [
+        "circle",
+        "cloud",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cloud-done",
+      "tags": [
+        "cloud",
+        "done"
+      ]
+    },
+    {
+      "name": "cloud-done-outline",
+      "tags": [
+        "cloud",
+        "done",
+        "outline"
+      ]
+    },
+    {
+      "name": "cloud-done-sharp",
+      "tags": [
+        "cloud",
+        "done",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cloud-download",
+      "tags": [
+        "cloud",
+        "download"
+      ]
+    },
+    {
+      "name": "cloud-download-outline",
+      "tags": [
+        "cloud",
+        "download",
+        "outline"
+      ]
+    },
+    {
+      "name": "cloud-download-sharp",
+      "tags": [
+        "cloud",
+        "download",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cloud-offline",
+      "tags": [
+        "cloud",
+        "offline"
+      ]
+    },
+    {
+      "name": "cloud-offline-outline",
+      "tags": [
+        "cloud",
+        "offline",
+        "outline"
+      ]
+    },
+    {
+      "name": "cloud-offline-sharp",
+      "tags": [
+        "cloud",
+        "offline",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cloud-outline",
+      "tags": [
+        "cloud",
+        "outline"
+      ]
+    },
+    {
+      "name": "cloud-sharp",
+      "tags": [
+        "cloud",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cloud-upload",
+      "tags": [
+        "cloud",
+        "upload"
+      ]
+    },
+    {
+      "name": "cloud-upload-outline",
+      "tags": [
+        "cloud",
+        "outline",
+        "upload"
+      ]
+    },
+    {
+      "name": "cloud-upload-sharp",
+      "tags": [
+        "cloud",
+        "sharp",
+        "upload"
+      ]
+    },
+    {
+      "name": "cloudy",
+      "tags": [
+        "cloudy"
+      ]
+    },
+    {
+      "name": "cloudy-night",
+      "tags": [
+        "cloudy",
+        "night"
+      ]
+    },
+    {
+      "name": "cloudy-night-outline",
+      "tags": [
+        "cloudy",
+        "night",
+        "outline"
+      ]
+    },
+    {
+      "name": "cloudy-night-sharp",
+      "tags": [
+        "cloudy",
+        "night",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cloudy-outline",
+      "tags": [
+        "cloudy",
+        "outline"
+      ]
+    },
+    {
+      "name": "cloudy-sharp",
+      "tags": [
+        "cloudy",
+        "sharp"
+      ]
+    },
+    {
+      "name": "code",
+      "tags": [
+        "code"
+      ]
+    },
+    {
+      "name": "code-download",
+      "tags": [
+        "code",
+        "download"
+      ]
+    },
+    {
+      "name": "code-download-outline",
+      "tags": [
+        "code",
+        "download",
+        "outline"
+      ]
+    },
+    {
+      "name": "code-download-sharp",
+      "tags": [
+        "code",
+        "download",
+        "sharp"
+      ]
+    },
+    {
+      "name": "code-outline",
+      "tags": [
+        "code",
+        "outline"
+      ]
+    },
+    {
+      "name": "code-sharp",
+      "tags": [
+        "code",
+        "sharp"
+      ]
+    },
+    {
+      "name": "code-slash",
+      "tags": [
+        "code",
+        "slash"
+      ]
+    },
+    {
+      "name": "code-slash-outline",
+      "tags": [
+        "code",
+        "outline",
+        "slash"
+      ]
+    },
+    {
+      "name": "code-slash-sharp",
+      "tags": [
+        "code",
+        "sharp",
+        "slash"
+      ]
+    },
+    {
+      "name": "code-working",
+      "tags": [
+        "code",
+        "working"
+      ]
+    },
+    {
+      "name": "code-working-outline",
+      "tags": [
+        "code",
+        "outline",
+        "working"
+      ]
+    },
+    {
+      "name": "code-working-sharp",
+      "tags": [
+        "code",
+        "sharp",
+        "working"
+      ]
+    },
+    {
+      "name": "cog",
+      "tags": [
+        "cog"
+      ]
+    },
+    {
+      "name": "cog-outline",
+      "tags": [
+        "cog",
+        "outline"
+      ]
+    },
+    {
+      "name": "cog-sharp",
+      "tags": [
+        "cog",
+        "sharp"
+      ]
+    },
+    {
+      "name": "color-fill",
+      "tags": [
+        "color",
+        "fill"
+      ]
+    },
+    {
+      "name": "color-fill-outline",
+      "tags": [
+        "color",
+        "fill",
+        "outline"
+      ]
+    },
+    {
+      "name": "color-fill-sharp",
+      "tags": [
+        "color",
+        "fill",
+        "sharp"
+      ]
+    },
+    {
+      "name": "color-filter",
+      "tags": [
+        "color",
+        "filter"
+      ]
+    },
+    {
+      "name": "color-filter-outline",
+      "tags": [
+        "color",
+        "filter",
+        "outline"
+      ]
+    },
+    {
+      "name": "color-filter-sharp",
+      "tags": [
+        "color",
+        "filter",
+        "sharp"
+      ]
+    },
+    {
+      "name": "color-palette",
+      "tags": [
+        "color",
+        "palette"
+      ]
+    },
+    {
+      "name": "color-palette-outline",
+      "tags": [
+        "color",
+        "outline",
+        "palette"
+      ]
+    },
+    {
+      "name": "color-palette-sharp",
+      "tags": [
+        "color",
+        "palette",
+        "sharp"
+      ]
+    },
+    {
+      "name": "color-wand",
+      "tags": [
+        "color",
+        "wand"
+      ]
+    },
+    {
+      "name": "color-wand-outline",
+      "tags": [
+        "color",
+        "outline",
+        "wand"
+      ]
+    },
+    {
+      "name": "color-wand-sharp",
+      "tags": [
+        "color",
+        "sharp",
+        "wand"
+      ]
+    },
+    {
+      "name": "compass",
+      "tags": [
+        "compass"
+      ]
+    },
+    {
+      "name": "compass-outline",
+      "tags": [
+        "compass",
+        "outline"
+      ]
+    },
+    {
+      "name": "compass-sharp",
+      "tags": [
+        "compass",
+        "sharp"
+      ]
+    },
+    {
+      "name": "construct",
+      "tags": [
+        "construct"
+      ]
+    },
+    {
+      "name": "construct-outline",
+      "tags": [
+        "construct",
+        "outline"
+      ]
+    },
+    {
+      "name": "construct-sharp",
+      "tags": [
+        "construct",
+        "sharp"
+      ]
+    },
+    {
+      "name": "contract",
+      "tags": [
+        "contract"
+      ]
+    },
+    {
+      "name": "contract-outline",
+      "tags": [
+        "contract",
+        "outline"
+      ]
+    },
+    {
+      "name": "contract-sharp",
+      "tags": [
+        "contract",
+        "sharp"
+      ]
+    },
+    {
+      "name": "contrast",
+      "tags": [
+        "contrast"
+      ]
+    },
+    {
+      "name": "contrast-outline",
+      "tags": [
+        "contrast",
+        "outline"
+      ]
+    },
+    {
+      "name": "contrast-sharp",
+      "tags": [
+        "contrast",
+        "sharp"
+      ]
+    },
+    {
+      "name": "copy",
+      "tags": [
+        "copy"
+      ]
+    },
+    {
+      "name": "copy-outline",
+      "tags": [
+        "copy",
+        "outline"
+      ]
+    },
+    {
+      "name": "copy-sharp",
+      "tags": [
+        "copy",
+        "sharp"
+      ]
+    },
+    {
+      "name": "create",
+      "tags": [
+        "create"
+      ]
+    },
+    {
+      "name": "create-outline",
+      "tags": [
+        "create",
+        "outline"
+      ]
+    },
+    {
+      "name": "create-sharp",
+      "tags": [
+        "create",
+        "sharp"
+      ]
+    },
+    {
+      "name": "crop",
+      "tags": [
+        "crop"
+      ]
+    },
+    {
+      "name": "crop-outline",
+      "tags": [
+        "crop",
+        "outline"
+      ]
+    },
+    {
+      "name": "crop-sharp",
+      "tags": [
+        "crop",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cube",
+      "tags": [
+        "cube"
+      ]
+    },
+    {
+      "name": "cube-outline",
+      "tags": [
+        "cube",
+        "outline"
+      ]
+    },
+    {
+      "name": "cube-sharp",
+      "tags": [
+        "cube",
+        "sharp"
+      ]
+    },
+    {
+      "name": "cut",
+      "tags": [
+        "cut"
+      ]
+    },
+    {
+      "name": "cut-outline",
+      "tags": [
+        "cut",
+        "outline"
+      ]
+    },
+    {
+      "name": "cut-sharp",
+      "tags": [
+        "cut",
+        "sharp"
+      ]
+    },
+    {
+      "name": "desktop",
+      "tags": [
+        "desktop"
+      ]
+    },
+    {
+      "name": "desktop-outline",
+      "tags": [
+        "desktop",
+        "outline"
+      ]
+    },
+    {
+      "name": "desktop-sharp",
+      "tags": [
+        "desktop",
+        "sharp"
+      ]
+    },
+    {
+      "name": "disc",
+      "tags": [
+        "disc"
+      ]
+    },
+    {
+      "name": "disc-outline",
+      "tags": [
+        "disc",
+        "outline"
+      ]
+    },
+    {
+      "name": "disc-sharp",
+      "tags": [
+        "disc",
+        "sharp"
+      ]
+    },
+    {
+      "name": "document",
+      "tags": [
+        "document"
+      ]
+    },
+    {
+      "name": "document-attach",
+      "tags": [
+        "attach",
+        "document"
+      ]
+    },
+    {
+      "name": "document-attach-outline",
+      "tags": [
+        "attach",
+        "document",
+        "outline"
+      ]
+    },
+    {
+      "name": "document-attach-sharp",
+      "tags": [
+        "attach",
+        "document",
+        "sharp"
+      ]
+    },
+    {
+      "name": "document-outline",
+      "tags": [
+        "document",
+        "outline"
+      ]
+    },
+    {
+      "name": "document-sharp",
+      "tags": [
+        "document",
+        "sharp"
+      ]
+    },
+    {
+      "name": "document-text",
+      "tags": [
+        "document",
+        "text"
+      ]
+    },
+    {
+      "name": "document-text-outline",
+      "tags": [
+        "document",
+        "outline",
+        "text"
+      ]
+    },
+    {
+      "name": "document-text-sharp",
+      "tags": [
+        "document",
+        "sharp",
+        "text"
+      ]
+    },
+    {
+      "name": "documents",
+      "tags": [
+        "documents"
+      ]
+    },
+    {
+      "name": "documents-outline",
+      "tags": [
+        "documents",
+        "outline"
+      ]
+    },
+    {
+      "name": "documents-sharp",
+      "tags": [
+        "documents",
+        "sharp"
+      ]
+    },
+    {
+      "name": "download",
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "download-outline",
+      "tags": [
+        "download",
+        "outline"
+      ]
+    },
+    {
+      "name": "download-sharp",
+      "tags": [
+        "download",
+        "sharp"
+      ]
+    },
+    {
+      "name": "duplicate",
+      "tags": [
+        "duplicate"
+      ]
+    },
+    {
+      "name": "duplicate-outline",
+      "tags": [
+        "duplicate",
+        "outline"
+      ]
+    },
+    {
+      "name": "duplicate-sharp",
+      "tags": [
+        "duplicate",
+        "sharp"
+      ]
+    },
+    {
+      "name": "ear",
+      "tags": [
+        "ear"
+      ]
+    },
+    {
+      "name": "ear-outline",
+      "tags": [
+        "ear",
+        "outline"
+      ]
+    },
+    {
+      "name": "ear-sharp",
+      "tags": [
+        "ear",
+        "sharp"
+      ]
+    },
+    {
+      "name": "earth",
+      "tags": [
+        "earth"
+      ]
+    },
+    {
+      "name": "earth-outline",
+      "tags": [
+        "earth",
+        "outline"
+      ]
+    },
+    {
+      "name": "earth-sharp",
+      "tags": [
+        "earth",
+        "sharp"
+      ]
+    },
+    {
+      "name": "easel",
+      "tags": [
+        "easel"
+      ]
+    },
+    {
+      "name": "easel-outline",
+      "tags": [
+        "easel",
+        "outline"
+      ]
+    },
+    {
+      "name": "easel-sharp",
+      "tags": [
+        "easel",
+        "sharp"
+      ]
+    },
+    {
+      "name": "egg",
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "name": "egg-outline",
+      "tags": [
+        "egg",
+        "outline"
+      ]
+    },
+    {
+      "name": "egg-sharp",
+      "tags": [
+        "egg",
+        "sharp"
+      ]
+    },
+    {
+      "name": "ellipse",
+      "tags": [
+        "ellipse"
+      ]
+    },
+    {
+      "name": "ellipse-outline",
+      "tags": [
+        "ellipse",
+        "outline"
+      ]
+    },
+    {
+      "name": "ellipse-sharp",
+      "tags": [
+        "ellipse",
+        "sharp"
+      ]
+    },
+    {
+      "name": "ellipsis-horizontal",
+      "tags": [
+        "ellipsis",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "ellipsis-horizontal-circle",
+      "tags": [
+        "circle",
+        "ellipsis",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "ellipsis-horizontal-circle-outline",
+      "tags": [
+        "circle",
+        "ellipsis",
+        "horizontal",
+        "outline"
+      ]
+    },
+    {
+      "name": "ellipsis-horizontal-circle-sharp",
+      "tags": [
+        "circle",
+        "ellipsis",
+        "horizontal",
+        "sharp"
+      ]
+    },
+    {
+      "name": "ellipsis-horizontal-outline",
+      "tags": [
+        "ellipsis",
+        "horizontal",
+        "outline"
+      ]
+    },
+    {
+      "name": "ellipsis-horizontal-sharp",
+      "tags": [
+        "ellipsis",
+        "horizontal",
+        "sharp"
+      ]
+    },
+    {
+      "name": "ellipsis-vertical",
+      "tags": [
+        "ellipsis",
+        "vertical"
+      ]
+    },
+    {
+      "name": "ellipsis-vertical-circle",
+      "tags": [
+        "circle",
+        "ellipsis",
+        "vertical"
+      ]
+    },
+    {
+      "name": "ellipsis-vertical-circle-outline",
+      "tags": [
+        "circle",
+        "ellipsis",
+        "outline",
+        "vertical"
+      ]
+    },
+    {
+      "name": "ellipsis-vertical-circle-sharp",
+      "tags": [
+        "circle",
+        "ellipsis",
+        "sharp",
+        "vertical"
+      ]
+    },
+    {
+      "name": "ellipsis-vertical-outline",
+      "tags": [
+        "ellipsis",
+        "outline",
+        "vertical"
+      ]
+    },
+    {
+      "name": "ellipsis-vertical-sharp",
+      "tags": [
+        "ellipsis",
+        "sharp",
+        "vertical"
+      ]
+    },
+    {
+      "name": "enter",
+      "tags": [
+        "enter"
+      ]
+    },
+    {
+      "name": "enter-outline",
+      "tags": [
+        "enter",
+        "outline"
+      ]
+    },
+    {
+      "name": "enter-sharp",
+      "tags": [
+        "enter",
+        "sharp"
+      ]
+    },
+    {
+      "name": "exit",
+      "tags": [
+        "exit"
+      ]
+    },
+    {
+      "name": "exit-outline",
+      "tags": [
+        "exit",
+        "outline"
+      ]
+    },
+    {
+      "name": "exit-sharp",
+      "tags": [
+        "exit",
+        "sharp"
+      ]
+    },
+    {
+      "name": "expand",
+      "tags": [
+        "expand"
+      ]
+    },
+    {
+      "name": "expand-outline",
+      "tags": [
+        "expand",
+        "outline"
+      ]
+    },
+    {
+      "name": "expand-sharp",
+      "tags": [
+        "expand",
+        "sharp"
+      ]
+    },
+    {
+      "name": "eye",
+      "tags": [
+        "eye"
+      ]
+    },
+    {
+      "name": "eye-off",
+      "tags": [
+        "eye",
+        "off"
+      ]
+    },
+    {
+      "name": "eye-off-outline",
+      "tags": [
+        "eye",
+        "off",
+        "outline"
+      ]
+    },
+    {
+      "name": "eye-off-sharp",
+      "tags": [
+        "eye",
+        "off",
+        "sharp"
+      ]
+    },
+    {
+      "name": "eye-outline",
+      "tags": [
+        "eye",
+        "outline"
+      ]
+    },
+    {
+      "name": "eye-sharp",
+      "tags": [
+        "eye",
+        "sharp"
+      ]
+    },
+    {
+      "name": "eyedrop",
+      "tags": [
+        "eyedrop"
+      ]
+    },
+    {
+      "name": "eyedrop-outline",
+      "tags": [
+        "eyedrop",
+        "outline"
+      ]
+    },
+    {
+      "name": "eyedrop-sharp",
+      "tags": [
+        "eyedrop",
+        "sharp"
+      ]
+    },
+    {
+      "name": "fast-food",
+      "tags": [
+        "fast",
+        "food"
+      ]
+    },
+    {
+      "name": "fast-food-outline",
+      "tags": [
+        "fast",
+        "food",
+        "outline"
+      ]
+    },
+    {
+      "name": "fast-food-sharp",
+      "tags": [
+        "fast",
+        "food",
+        "sharp"
+      ]
+    },
+    {
+      "name": "female",
+      "tags": [
+        "female"
+      ]
+    },
+    {
+      "name": "female-outline",
+      "tags": [
+        "female",
+        "outline"
+      ]
+    },
+    {
+      "name": "female-sharp",
+      "tags": [
+        "female",
+        "sharp"
+      ]
+    },
+    {
+      "name": "file-tray",
+      "tags": [
+        "file",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-full",
+      "tags": [
+        "file",
+        "full",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-full-outline",
+      "tags": [
+        "file",
+        "full",
+        "outline",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-full-sharp",
+      "tags": [
+        "file",
+        "full",
+        "sharp",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-outline",
+      "tags": [
+        "file",
+        "outline",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-sharp",
+      "tags": [
+        "file",
+        "sharp",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-stacked",
+      "tags": [
+        "file",
+        "stacked",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-stacked-outline",
+      "tags": [
+        "file",
+        "outline",
+        "stacked",
+        "tray"
+      ]
+    },
+    {
+      "name": "file-tray-stacked-sharp",
+      "tags": [
+        "file",
+        "sharp",
+        "stacked",
+        "tray"
+      ]
+    },
+    {
+      "name": "film",
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "name": "film-outline",
+      "tags": [
+        "film",
+        "outline"
+      ]
+    },
+    {
+      "name": "film-sharp",
+      "tags": [
+        "film",
+        "sharp"
+      ]
+    },
+    {
+      "name": "filter",
+      "tags": [
+        "filter"
+      ]
+    },
+    {
+      "name": "filter-outline",
+      "tags": [
+        "filter",
+        "outline"
+      ]
+    },
+    {
+      "name": "filter-sharp",
+      "tags": [
+        "filter",
+        "sharp"
+      ]
+    },
+    {
+      "name": "finger-print",
+      "tags": [
+        "finger",
+        "print"
+      ]
+    },
+    {
+      "name": "finger-print-outline",
+      "tags": [
+        "finger",
+        "outline",
+        "print"
+      ]
+    },
+    {
+      "name": "finger-print-sharp",
+      "tags": [
+        "finger",
+        "print",
+        "sharp"
+      ]
+    },
+    {
+      "name": "fitness",
+      "tags": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "fitness-outline",
+      "tags": [
+        "fitness",
+        "outline"
+      ]
+    },
+    {
+      "name": "fitness-sharp",
+      "tags": [
+        "fitness",
+        "sharp"
+      ]
+    },
+    {
+      "name": "flag",
+      "tags": [
+        "flag"
+      ]
+    },
+    {
+      "name": "flag-outline",
+      "tags": [
+        "flag",
+        "outline"
+      ]
+    },
+    {
+      "name": "flag-sharp",
+      "tags": [
+        "flag",
+        "sharp"
+      ]
+    },
+    {
+      "name": "flame",
+      "tags": [
+        "flame"
+      ]
+    },
+    {
+      "name": "flame-outline",
+      "tags": [
+        "flame",
+        "outline"
+      ]
+    },
+    {
+      "name": "flame-sharp",
+      "tags": [
+        "flame",
+        "sharp"
+      ]
+    },
+    {
+      "name": "flash",
+      "tags": [
+        "flash"
+      ]
+    },
+    {
+      "name": "flash-off",
+      "tags": [
+        "flash",
+        "off"
+      ]
+    },
+    {
+      "name": "flash-off-outline",
+      "tags": [
+        "flash",
+        "off",
+        "outline"
+      ]
+    },
+    {
+      "name": "flash-off-sharp",
+      "tags": [
+        "flash",
+        "off",
+        "sharp"
+      ]
+    },
+    {
+      "name": "flash-outline",
+      "tags": [
+        "flash",
+        "outline"
+      ]
+    },
+    {
+      "name": "flash-sharp",
+      "tags": [
+        "flash",
+        "sharp"
+      ]
+    },
+    {
+      "name": "flashlight",
+      "tags": [
+        "flashlight"
+      ]
+    },
+    {
+      "name": "flashlight-outline",
+      "tags": [
+        "flashlight",
+        "outline"
+      ]
+    },
+    {
+      "name": "flashlight-sharp",
+      "tags": [
+        "flashlight",
+        "sharp"
+      ]
+    },
+    {
+      "name": "flask",
+      "tags": [
+        "flask"
+      ]
+    },
+    {
+      "name": "flask-outline",
+      "tags": [
+        "flask",
+        "outline"
+      ]
+    },
+    {
+      "name": "flask-sharp",
+      "tags": [
+        "flask",
+        "sharp"
+      ]
+    },
+    {
+      "name": "flower",
+      "tags": [
+        "flower"
+      ]
+    },
+    {
+      "name": "flower-outline",
+      "tags": [
+        "flower",
+        "outline"
+      ]
+    },
+    {
+      "name": "flower-sharp",
+      "tags": [
+        "flower",
+        "sharp"
+      ]
+    },
+    {
+      "name": "folder",
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-open",
+      "tags": [
+        "folder",
+        "open"
+      ]
+    },
+    {
+      "name": "folder-open-outline",
+      "tags": [
+        "folder",
+        "open",
+        "outline"
+      ]
+    },
+    {
+      "name": "folder-open-sharp",
+      "tags": [
+        "folder",
+        "open",
+        "sharp"
+      ]
+    },
+    {
+      "name": "folder-outline",
+      "tags": [
+        "folder",
+        "outline"
+      ]
+    },
+    {
+      "name": "folder-sharp",
+      "tags": [
+        "folder",
+        "sharp"
+      ]
+    },
+    {
+      "name": "football",
+      "tags": [
+        "football"
+      ]
+    },
+    {
+      "name": "football-outline",
+      "tags": [
+        "football",
+        "outline"
+      ]
+    },
+    {
+      "name": "football-sharp",
+      "tags": [
+        "football",
+        "sharp"
+      ]
+    },
+    {
+      "name": "funnel",
+      "tags": [
+        "funnel"
+      ]
+    },
+    {
+      "name": "funnel-outline",
+      "tags": [
+        "funnel",
+        "outline"
+      ]
+    },
+    {
+      "name": "funnel-sharp",
+      "tags": [
+        "funnel",
+        "sharp"
+      ]
+    },
+    {
+      "name": "game-controller",
+      "tags": [
+        "controller",
+        "game"
+      ]
+    },
+    {
+      "name": "game-controller-outline",
+      "tags": [
+        "controller",
+        "game",
+        "outline"
+      ]
+    },
+    {
+      "name": "game-controller-sharp",
+      "tags": [
+        "controller",
+        "game",
+        "sharp"
+      ]
+    },
+    {
+      "name": "gift",
+      "tags": [
+        "gift"
+      ]
+    },
+    {
+      "name": "gift-outline",
+      "tags": [
+        "gift",
+        "outline"
+      ]
+    },
+    {
+      "name": "gift-sharp",
+      "tags": [
+        "gift",
+        "sharp"
+      ]
+    },
+    {
+      "name": "git-branch",
+      "tags": [
+        "branch",
+        "git"
+      ]
+    },
+    {
+      "name": "git-branch-outline",
+      "tags": [
+        "branch",
+        "git",
+        "outline"
+      ]
+    },
+    {
+      "name": "git-branch-sharp",
+      "tags": [
+        "branch",
+        "git",
+        "sharp"
+      ]
+    },
+    {
+      "name": "git-commit",
+      "tags": [
+        "commit",
+        "git"
+      ]
+    },
+    {
+      "name": "git-commit-outline",
+      "tags": [
+        "commit",
+        "git",
+        "outline"
+      ]
+    },
+    {
+      "name": "git-commit-sharp",
+      "tags": [
+        "commit",
+        "git",
+        "sharp"
+      ]
+    },
+    {
+      "name": "git-compare",
+      "tags": [
+        "compare",
+        "git"
+      ]
+    },
+    {
+      "name": "git-compare-outline",
+      "tags": [
+        "compare",
+        "git",
+        "outline"
+      ]
+    },
+    {
+      "name": "git-compare-sharp",
+      "tags": [
+        "compare",
+        "git",
+        "sharp"
+      ]
+    },
+    {
+      "name": "git-merge",
+      "tags": [
+        "git",
+        "merge"
+      ]
+    },
+    {
+      "name": "git-merge-outline",
+      "tags": [
+        "git",
+        "merge",
+        "outline"
+      ]
+    },
+    {
+      "name": "git-merge-sharp",
+      "tags": [
+        "git",
+        "merge",
+        "sharp"
+      ]
+    },
+    {
+      "name": "git-network",
+      "tags": [
+        "git",
+        "network"
+      ]
+    },
+    {
+      "name": "git-network-outline",
+      "tags": [
+        "git",
+        "network",
+        "outline"
+      ]
+    },
+    {
+      "name": "git-network-sharp",
+      "tags": [
+        "git",
+        "network",
+        "sharp"
+      ]
+    },
+    {
+      "name": "git-pull-request",
+      "tags": [
+        "git",
+        "pull",
+        "request"
+      ]
+    },
+    {
+      "name": "git-pull-request-outline",
+      "tags": [
+        "git",
+        "outline",
+        "pull",
+        "request"
+      ]
+    },
+    {
+      "name": "git-pull-request-sharp",
+      "tags": [
+        "git",
+        "pull",
+        "request",
+        "sharp"
+      ]
+    },
+    {
+      "name": "glasses",
+      "tags": [
+        "glasses"
+      ]
+    },
+    {
+      "name": "glasses-outline",
+      "tags": [
+        "glasses",
+        "outline"
+      ]
+    },
+    {
+      "name": "glasses-sharp",
+      "tags": [
+        "glasses",
+        "sharp"
+      ]
+    },
+    {
+      "name": "globe",
+      "tags": [
+        "globe"
+      ]
+    },
+    {
+      "name": "globe-outline",
+      "tags": [
+        "globe",
+        "outline"
+      ]
+    },
+    {
+      "name": "globe-sharp",
+      "tags": [
+        "globe",
+        "sharp"
+      ]
+    },
+    {
+      "name": "golf",
+      "tags": [
+        "golf"
+      ]
+    },
+    {
+      "name": "golf-outline",
+      "tags": [
+        "golf",
+        "outline"
+      ]
+    },
+    {
+      "name": "golf-sharp",
+      "tags": [
+        "golf",
+        "sharp"
+      ]
+    },
+    {
+      "name": "grid",
+      "tags": [
+        "grid"
+      ]
+    },
+    {
+      "name": "grid-outline",
+      "tags": [
+        "grid",
+        "outline"
+      ]
+    },
+    {
+      "name": "grid-sharp",
+      "tags": [
+        "grid",
+        "sharp"
+      ]
+    },
+    {
+      "name": "hammer",
+      "tags": [
+        "hammer"
+      ]
+    },
+    {
+      "name": "hammer-outline",
+      "tags": [
+        "hammer",
+        "outline"
+      ]
+    },
+    {
+      "name": "hammer-sharp",
+      "tags": [
+        "hammer",
+        "sharp"
+      ]
+    },
+    {
+      "name": "hand-left",
+      "tags": [
+        "hand",
+        "left"
+      ]
+    },
+    {
+      "name": "hand-left-outline",
+      "tags": [
+        "hand",
+        "left",
+        "outline"
+      ]
+    },
+    {
+      "name": "hand-left-sharp",
+      "tags": [
+        "hand",
+        "left",
+        "sharp"
+      ]
+    },
+    {
+      "name": "hand-right",
+      "tags": [
+        "hand",
+        "right"
+      ]
+    },
+    {
+      "name": "hand-right-outline",
+      "tags": [
+        "hand",
+        "outline",
+        "right"
+      ]
+    },
+    {
+      "name": "hand-right-sharp",
+      "tags": [
+        "hand",
+        "right",
+        "sharp"
+      ]
+    },
+    {
+      "name": "happy",
+      "tags": [
+        "happy"
+      ]
+    },
+    {
+      "name": "happy-outline",
+      "tags": [
+        "happy",
+        "outline"
+      ]
+    },
+    {
+      "name": "happy-sharp",
+      "tags": [
+        "happy",
+        "sharp"
+      ]
+    },
+    {
+      "name": "hardware-chip",
+      "tags": [
+        "chip",
+        "hardware"
+      ]
+    },
+    {
+      "name": "hardware-chip-outline",
+      "tags": [
+        "chip",
+        "hardware",
+        "outline"
+      ]
+    },
+    {
+      "name": "hardware-chip-sharp",
+      "tags": [
+        "chip",
+        "hardware",
+        "sharp"
+      ]
+    },
+    {
+      "name": "headset",
+      "tags": [
+        "headset"
+      ]
+    },
+    {
+      "name": "headset-outline",
+      "tags": [
+        "headset",
+        "outline"
+      ]
+    },
+    {
+      "name": "headset-sharp",
+      "tags": [
+        "headset",
+        "sharp"
+      ]
+    },
+    {
+      "name": "heart",
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "name": "heart-circle",
+      "tags": [
+        "circle",
+        "heart"
+      ]
+    },
+    {
+      "name": "heart-circle-outline",
+      "tags": [
+        "circle",
+        "heart",
+        "outline"
+      ]
+    },
+    {
+      "name": "heart-circle-sharp",
+      "tags": [
+        "circle",
+        "heart",
+        "sharp"
+      ]
+    },
+    {
+      "name": "heart-dislike",
+      "tags": [
+        "dislike",
+        "heart"
+      ]
+    },
+    {
+      "name": "heart-dislike-circle",
+      "tags": [
+        "circle",
+        "dislike",
+        "heart"
+      ]
+    },
+    {
+      "name": "heart-dislike-circle-outline",
+      "tags": [
+        "circle",
+        "dislike",
+        "heart",
+        "outline"
+      ]
+    },
+    {
+      "name": "heart-dislike-circle-sharp",
+      "tags": [
+        "circle",
+        "dislike",
+        "heart",
+        "sharp"
+      ]
+    },
+    {
+      "name": "heart-dislike-outline",
+      "tags": [
+        "dislike",
+        "heart",
+        "outline"
+      ]
+    },
+    {
+      "name": "heart-dislike-sharp",
+      "tags": [
+        "dislike",
+        "heart",
+        "sharp"
+      ]
+    },
+    {
+      "name": "heart-half",
+      "tags": [
+        "half",
+        "heart"
+      ]
+    },
+    {
+      "name": "heart-half-outline",
+      "tags": [
+        "half",
+        "heart",
+        "outline"
+      ]
+    },
+    {
+      "name": "heart-half-sharp",
+      "tags": [
+        "half",
+        "heart",
+        "sharp"
+      ]
+    },
+    {
+      "name": "heart-outline",
+      "tags": [
+        "heart",
+        "outline"
+      ]
+    },
+    {
+      "name": "heart-sharp",
+      "tags": [
+        "heart",
+        "sharp"
+      ]
+    },
+    {
+      "name": "help",
+      "tags": [
+        "help"
+      ]
+    },
+    {
+      "name": "help-buoy",
+      "tags": [
+        "buoy",
+        "help"
+      ]
+    },
+    {
+      "name": "help-buoy-outline",
+      "tags": [
+        "buoy",
+        "help",
+        "outline"
+      ]
+    },
+    {
+      "name": "help-buoy-sharp",
+      "tags": [
+        "buoy",
+        "help",
+        "sharp"
+      ]
+    },
+    {
+      "name": "help-circle",
+      "tags": [
+        "circle",
+        "help"
+      ]
+    },
+    {
+      "name": "help-circle-outline",
+      "tags": [
+        "circle",
+        "help",
+        "outline"
+      ]
+    },
+    {
+      "name": "help-circle-sharp",
+      "tags": [
+        "circle",
+        "help",
+        "sharp"
+      ]
+    },
+    {
+      "name": "help-outline",
+      "tags": [
+        "help",
+        "outline"
+      ]
+    },
+    {
+      "name": "help-sharp",
+      "tags": [
+        "help",
+        "sharp"
+      ]
+    },
+    {
+      "name": "home",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "home-outline",
+      "tags": [
+        "home",
+        "outline"
+      ]
+    },
+    {
+      "name": "home-sharp",
+      "tags": [
+        "home",
+        "sharp"
+      ]
+    },
+    {
+      "name": "hourglass",
+      "tags": [
+        "hourglass"
+      ]
+    },
+    {
+      "name": "hourglass-outline",
+      "tags": [
+        "hourglass",
+        "outline"
+      ]
+    },
+    {
+      "name": "hourglass-sharp",
+      "tags": [
+        "hourglass",
+        "sharp"
+      ]
+    },
+    {
+      "name": "ice-cream",
+      "tags": [
+        "cream",
+        "ice"
+      ]
+    },
+    {
+      "name": "ice-cream-outline",
+      "tags": [
+        "cream",
+        "ice",
+        "outline"
+      ]
+    },
+    {
+      "name": "ice-cream-sharp",
+      "tags": [
+        "cream",
+        "ice",
+        "sharp"
+      ]
+    },
+    {
+      "name": "image",
+      "tags": [
+        "image"
+      ]
+    },
+    {
+      "name": "image-outline",
+      "tags": [
+        "image",
+        "outline"
+      ]
+    },
+    {
+      "name": "image-sharp",
+      "tags": [
+        "image",
+        "sharp"
+      ]
+    },
+    {
+      "name": "images",
+      "tags": [
+        "images"
+      ]
+    },
+    {
+      "name": "images-outline",
+      "tags": [
+        "images",
+        "outline"
+      ]
+    },
+    {
+      "name": "images-sharp",
+      "tags": [
+        "images",
+        "sharp"
+      ]
+    },
+    {
+      "name": "infinite",
+      "tags": [
+        "infinite"
+      ]
+    },
+    {
+      "name": "infinite-outline",
+      "tags": [
+        "infinite",
+        "outline"
+      ]
+    },
+    {
+      "name": "infinite-sharp",
+      "tags": [
+        "infinite",
+        "sharp"
+      ]
+    },
+    {
+      "name": "information",
+      "tags": [
+        "information"
+      ]
+    },
+    {
+      "name": "information-circle",
+      "tags": [
+        "circle",
+        "information"
+      ]
+    },
+    {
+      "name": "information-circle-outline",
+      "tags": [
+        "circle",
+        "information",
+        "outline"
+      ]
+    },
+    {
+      "name": "information-circle-sharp",
+      "tags": [
+        "circle",
+        "information",
+        "sharp"
+      ]
+    },
+    {
+      "name": "information-outline",
+      "tags": [
+        "information",
+        "outline"
+      ]
+    },
+    {
+      "name": "information-sharp",
+      "tags": [
+        "information",
+        "sharp"
+      ]
+    },
+    {
+      "name": "journal",
+      "tags": [
+        "journal"
+      ]
+    },
+    {
+      "name": "journal-outline",
+      "tags": [
+        "journal",
+        "outline"
+      ]
+    },
+    {
+      "name": "journal-sharp",
+      "tags": [
+        "journal",
+        "sharp"
+      ]
+    },
+    {
+      "name": "key",
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "name": "key-outline",
+      "tags": [
+        "key",
+        "outline"
+      ]
+    },
+    {
+      "name": "key-sharp",
+      "tags": [
+        "key",
+        "sharp"
+      ]
+    },
+    {
+      "name": "keypad",
+      "tags": [
+        "keypad"
+      ]
+    },
+    {
+      "name": "keypad-outline",
+      "tags": [
+        "keypad",
+        "outline"
+      ]
+    },
+    {
+      "name": "keypad-sharp",
+      "tags": [
+        "keypad",
+        "sharp"
+      ]
+    },
+    {
+      "name": "language",
+      "tags": [
+        "language"
+      ]
+    },
+    {
+      "name": "language-outline",
+      "tags": [
+        "language",
+        "outline"
+      ]
+    },
+    {
+      "name": "language-sharp",
+      "tags": [
+        "language",
+        "sharp"
+      ]
+    },
+    {
+      "name": "laptop",
+      "tags": [
+        "laptop"
+      ]
+    },
+    {
+      "name": "laptop-outline",
+      "tags": [
+        "laptop",
+        "outline"
+      ]
+    },
+    {
+      "name": "laptop-sharp",
+      "tags": [
+        "laptop",
+        "sharp"
+      ]
+    },
+    {
+      "name": "layers",
+      "tags": [
+        "layers"
+      ]
+    },
+    {
+      "name": "layers-outline",
+      "tags": [
+        "layers",
+        "outline"
+      ]
+    },
+    {
+      "name": "layers-sharp",
+      "tags": [
+        "layers",
+        "sharp"
+      ]
+    },
+    {
+      "name": "leaf",
+      "tags": [
+        "leaf"
+      ]
+    },
+    {
+      "name": "leaf-outline",
+      "tags": [
+        "leaf",
+        "outline"
+      ]
+    },
+    {
+      "name": "leaf-sharp",
+      "tags": [
+        "leaf",
+        "sharp"
+      ]
+    },
+    {
+      "name": "library",
+      "tags": [
+        "library"
+      ]
+    },
+    {
+      "name": "library-outline",
+      "tags": [
+        "library",
+        "outline"
+      ]
+    },
+    {
+      "name": "library-sharp",
+      "tags": [
+        "library",
+        "sharp"
+      ]
+    },
+    {
+      "name": "link",
+      "tags": [
+        "link"
+      ]
+    },
+    {
+      "name": "link-outline",
+      "tags": [
+        "link",
+        "outline"
+      ]
+    },
+    {
+      "name": "link-sharp",
+      "tags": [
+        "link",
+        "sharp"
+      ]
+    },
+    {
+      "name": "list",
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "name": "list-circle",
+      "tags": [
+        "circle",
+        "list"
+      ]
+    },
+    {
+      "name": "list-circle-outline",
+      "tags": [
+        "circle",
+        "list",
+        "outline"
+      ]
+    },
+    {
+      "name": "list-circle-sharp",
+      "tags": [
+        "circle",
+        "list",
+        "sharp"
+      ]
+    },
+    {
+      "name": "list-outline",
+      "tags": [
+        "list",
+        "outline"
+      ]
+    },
+    {
+      "name": "list-sharp",
+      "tags": [
+        "list",
+        "sharp"
+      ]
+    },
+    {
+      "name": "locate",
+      "tags": [
+        "locate"
+      ]
+    },
+    {
+      "name": "locate-outline",
+      "tags": [
+        "locate",
+        "outline"
+      ]
+    },
+    {
+      "name": "locate-sharp",
+      "tags": [
+        "locate",
+        "sharp"
+      ]
+    },
+    {
+      "name": "location",
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "name": "location-outline",
+      "tags": [
+        "location",
+        "outline"
+      ]
+    },
+    {
+      "name": "location-sharp",
+      "tags": [
+        "location",
+        "sharp"
+      ]
+    },
+    {
+      "name": "lock-closed",
+      "tags": [
+        "closed",
+        "lock"
+      ]
+    },
+    {
+      "name": "lock-closed-outline",
+      "tags": [
+        "closed",
+        "lock",
+        "outline"
+      ]
+    },
+    {
+      "name": "lock-closed-sharp",
+      "tags": [
+        "closed",
+        "lock",
+        "sharp"
+      ]
+    },
+    {
+      "name": "lock-open",
+      "tags": [
+        "lock",
+        "open"
+      ]
+    },
+    {
+      "name": "lock-open-outline",
+      "tags": [
+        "lock",
+        "open",
+        "outline"
+      ]
+    },
+    {
+      "name": "lock-open-sharp",
+      "tags": [
+        "lock",
+        "open",
+        "sharp"
+      ]
+    },
+    {
+      "name": "log-in",
+      "tags": [
+        "in",
+        "log"
+      ]
+    },
+    {
+      "name": "log-in-outline",
+      "tags": [
+        "in",
+        "log",
+        "outline"
+      ]
+    },
+    {
+      "name": "log-in-sharp",
+      "tags": [
+        "in",
+        "log",
+        "sharp"
+      ]
+    },
+    {
+      "name": "log-out",
+      "tags": [
+        "log",
+        "out"
+      ]
+    },
+    {
+      "name": "log-out-outline",
+      "tags": [
+        "log",
+        "out",
+        "outline"
+      ]
+    },
+    {
+      "name": "log-out-sharp",
+      "tags": [
+        "log",
+        "out",
+        "sharp"
+      ]
+    },
+    {
+      "name": "logo-amazon",
+      "tags": [
+        "amazon",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-amplify",
+      "tags": [
+        "amplify",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-android",
+      "tags": [
+        "android",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-angular",
+      "tags": [
+        "angular",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-apple",
+      "tags": [
+        "apple",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-apple-appstore",
+      "tags": [
+        "apple",
+        "appstore",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-bitbucket",
+      "tags": [
+        "bitbucket",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-bitcoin",
+      "tags": [
+        "bitcoin",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-buffer",
+      "tags": [
+        "buffer",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-capacitor",
+      "tags": [
+        "capacitor",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-chrome",
+      "tags": [
+        "chrome",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-closed-captioning",
+      "tags": [
+        "captioning",
+        "closed",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-codepen",
+      "tags": [
+        "codepen",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-css3",
+      "tags": [
+        "css3",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-designernews",
+      "tags": [
+        "designernews",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-dribbble",
+      "tags": [
+        "dribbble",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-dropbox",
+      "tags": [
+        "dropbox",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-edge",
+      "tags": [
+        "edge",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-electron",
+      "tags": [
+        "electron",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-euro",
+      "tags": [
+        "euro",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-facebook",
+      "tags": [
+        "facebook",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-firebase",
+      "tags": [
+        "firebase",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-firefox",
+      "tags": [
+        "firefox",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-flickr",
+      "tags": [
+        "flickr",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-foursquare",
+      "tags": [
+        "foursquare",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-github",
+      "tags": [
+        "github",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-google",
+      "tags": [
+        "google",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-google-playstore",
+      "tags": [
+        "google",
+        "logo",
+        "playstore"
+      ]
+    },
+    {
+      "name": "logo-hackernews",
+      "tags": [
+        "hackernews",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-html5",
+      "tags": [
+        "html5",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-instagram",
+      "tags": [
+        "instagram",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-ionic",
+      "tags": [
+        "ionic",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-ionitron",
+      "tags": [
+        "ionitron",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-javascript",
+      "tags": [
+        "javascript",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-laravel",
+      "tags": [
+        "laravel",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-linkedin",
+      "tags": [
+        "linkedin",
+        "logo"
+      ]
+    },
+    {
+      "name": "logo-markdown",
+      "tags": [
+        "logo",
+        "markdown"
+      ]
+    },
+    {
+      "name": "logo-no-smoking",
+      "tags": [
+        "logo",
+        "no",
+        "smoking"
+      ]
+    },
+    {
+      "name": "logo-nodejs",
+      "tags": [
+        "logo",
+        "nodejs"
+      ]
+    },
+    {
+      "name": "logo-npm",
+      "tags": [
+        "logo",
+        "npm"
+      ]
+    },
+    {
+      "name": "logo-octocat",
+      "tags": [
+        "logo",
+        "octocat"
+      ]
+    },
+    {
+      "name": "logo-pinterest",
+      "tags": [
+        "logo",
+        "pinterest"
+      ]
+    },
+    {
+      "name": "logo-playstation",
+      "tags": [
+        "logo",
+        "playstation"
+      ]
+    },
+    {
+      "name": "logo-pwa",
+      "tags": [
+        "logo",
+        "pwa"
+      ]
+    },
+    {
+      "name": "logo-python",
+      "tags": [
+        "logo",
+        "python"
+      ]
+    },
+    {
+      "name": "logo-react",
+      "tags": [
+        "logo",
+        "react"
+      ]
+    },
+    {
+      "name": "logo-reddit",
+      "tags": [
+        "logo",
+        "reddit"
+      ]
+    },
+    {
+      "name": "logo-rss",
+      "tags": [
+        "logo",
+        "rss"
+      ]
+    },
+    {
+      "name": "logo-sass",
+      "tags": [
+        "logo",
+        "sass"
+      ]
+    },
+    {
+      "name": "logo-skype",
+      "tags": [
+        "logo",
+        "skype"
+      ]
+    },
+    {
+      "name": "logo-slack",
+      "tags": [
+        "logo",
+        "slack"
+      ]
+    },
+    {
+      "name": "logo-snapchat",
+      "tags": [
+        "logo",
+        "snapchat"
+      ]
+    },
+    {
+      "name": "logo-stackoverflow",
+      "tags": [
+        "logo",
+        "stackoverflow"
+      ]
+    },
+    {
+      "name": "logo-steam",
+      "tags": [
+        "logo",
+        "steam"
+      ]
+    },
+    {
+      "name": "logo-stencil",
+      "tags": [
+        "logo",
+        "stencil"
+      ]
+    },
+    {
+      "name": "logo-tumblr",
+      "tags": [
+        "logo",
+        "tumblr"
+      ]
+    },
+    {
+      "name": "logo-tux",
+      "tags": [
+        "logo",
+        "tux"
+      ]
+    },
+    {
+      "name": "logo-twitch",
+      "tags": [
+        "logo",
+        "twitch"
+      ]
+    },
+    {
+      "name": "logo-twitter",
+      "tags": [
+        "logo",
+        "twitter"
+      ]
+    },
+    {
+      "name": "logo-usd",
+      "tags": [
+        "logo",
+        "usd"
+      ]
+    },
+    {
+      "name": "logo-vimeo",
+      "tags": [
+        "logo",
+        "vimeo"
+      ]
+    },
+    {
+      "name": "logo-vk",
+      "tags": [
+        "logo",
+        "vk"
+      ]
+    },
+    {
+      "name": "logo-vue",
+      "tags": [
+        "logo",
+        "vue"
+      ]
+    },
+    {
+      "name": "logo-web-component",
+      "tags": [
+        "component",
+        "logo",
+        "web"
+      ]
+    },
+    {
+      "name": "logo-whatsapp",
+      "tags": [
+        "logo",
+        "whatsapp"
+      ]
+    },
+    {
+      "name": "logo-windows",
+      "tags": [
+        "logo",
+        "windows"
+      ]
+    },
+    {
+      "name": "logo-wordpress",
+      "tags": [
+        "logo",
+        "wordpress"
+      ]
+    },
+    {
+      "name": "logo-xbox",
+      "tags": [
+        "logo",
+        "xbox"
+      ]
+    },
+    {
+      "name": "logo-xing",
+      "tags": [
+        "logo",
+        "xing"
+      ]
+    },
+    {
+      "name": "logo-yahoo",
+      "tags": [
+        "logo",
+        "yahoo"
+      ]
+    },
+    {
+      "name": "logo-yen",
+      "tags": [
+        "logo",
+        "yen"
+      ]
+    },
+    {
+      "name": "logo-youtube",
+      "tags": [
+        "logo",
+        "youtube"
+      ]
+    },
+    {
+      "name": "magnet",
+      "tags": [
+        "magnet"
+      ]
+    },
+    {
+      "name": "magnet-outline",
+      "tags": [
+        "magnet",
+        "outline"
+      ]
+    },
+    {
+      "name": "magnet-sharp",
+      "tags": [
+        "magnet",
+        "sharp"
+      ]
+    },
+    {
+      "name": "mail",
+      "tags": [
+        "mail"
+      ]
+    },
+    {
+      "name": "mail-open",
+      "tags": [
+        "mail",
+        "open"
+      ]
+    },
+    {
+      "name": "mail-open-outline",
+      "tags": [
+        "mail",
+        "open",
+        "outline"
+      ]
+    },
+    {
+      "name": "mail-open-sharp",
+      "tags": [
+        "mail",
+        "open",
+        "sharp"
+      ]
+    },
+    {
+      "name": "mail-outline",
+      "tags": [
+        "mail",
+        "outline"
+      ]
+    },
+    {
+      "name": "mail-sharp",
+      "tags": [
+        "mail",
+        "sharp"
+      ]
+    },
+    {
+      "name": "mail-unread",
+      "tags": [
+        "mail",
+        "unread"
+      ]
+    },
+    {
+      "name": "mail-unread-outline",
+      "tags": [
+        "mail",
+        "outline",
+        "unread"
+      ]
+    },
+    {
+      "name": "mail-unread-sharp",
+      "tags": [
+        "mail",
+        "sharp",
+        "unread"
+      ]
+    },
+    {
+      "name": "male",
+      "tags": [
+        "male"
+      ]
+    },
+    {
+      "name": "male-female",
+      "tags": [
+        "female",
+        "male"
+      ]
+    },
+    {
+      "name": "male-female-outline",
+      "tags": [
+        "female",
+        "male",
+        "outline"
+      ]
+    },
+    {
+      "name": "male-female-sharp",
+      "tags": [
+        "female",
+        "male",
+        "sharp"
+      ]
+    },
+    {
+      "name": "male-outline",
+      "tags": [
+        "male",
+        "outline"
+      ]
+    },
+    {
+      "name": "male-sharp",
+      "tags": [
+        "male",
+        "sharp"
+      ]
+    },
+    {
+      "name": "man",
+      "tags": [
+        "man"
+      ]
+    },
+    {
+      "name": "man-outline",
+      "tags": [
+        "man",
+        "outline"
+      ]
+    },
+    {
+      "name": "man-sharp",
+      "tags": [
+        "man",
+        "sharp"
+      ]
+    },
+    {
+      "name": "map",
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "name": "map-outline",
+      "tags": [
+        "map",
+        "outline"
+      ]
+    },
+    {
+      "name": "map-sharp",
+      "tags": [
+        "map",
+        "sharp"
+      ]
+    },
+    {
+      "name": "medal",
+      "tags": [
+        "medal"
+      ]
+    },
+    {
+      "name": "medal-outline",
+      "tags": [
+        "medal",
+        "outline"
+      ]
+    },
+    {
+      "name": "medal-sharp",
+      "tags": [
+        "medal",
+        "sharp"
+      ]
+    },
+    {
+      "name": "medical",
+      "tags": [
+        "medical"
+      ]
+    },
+    {
+      "name": "medical-outline",
+      "tags": [
+        "medical",
+        "outline"
+      ]
+    },
+    {
+      "name": "medical-sharp",
+      "tags": [
+        "medical",
+        "sharp"
+      ]
+    },
+    {
+      "name": "medkit",
+      "tags": [
+        "medkit"
+      ]
+    },
+    {
+      "name": "medkit-outline",
+      "tags": [
+        "medkit",
+        "outline"
+      ]
+    },
+    {
+      "name": "medkit-sharp",
+      "tags": [
+        "medkit",
+        "sharp"
+      ]
+    },
+    {
+      "name": "megaphone",
+      "tags": [
+        "megaphone"
+      ]
+    },
+    {
+      "name": "megaphone-outline",
+      "tags": [
+        "megaphone",
+        "outline"
+      ]
+    },
+    {
+      "name": "megaphone-sharp",
+      "tags": [
+        "megaphone",
+        "sharp"
+      ]
+    },
+    {
+      "name": "menu",
+      "tags": [
+        "menu"
+      ]
+    },
+    {
+      "name": "menu-outline",
+      "tags": [
+        "menu",
+        "outline"
+      ]
+    },
+    {
+      "name": "menu-sharp",
+      "tags": [
+        "menu",
+        "sharp"
+      ]
+    },
+    {
+      "name": "mic",
+      "tags": [
+        "mic"
+      ]
+    },
+    {
+      "name": "mic-circle",
+      "tags": [
+        "circle",
+        "mic"
+      ]
+    },
+    {
+      "name": "mic-circle-outline",
+      "tags": [
+        "circle",
+        "mic",
+        "outline"
+      ]
+    },
+    {
+      "name": "mic-circle-sharp",
+      "tags": [
+        "circle",
+        "mic",
+        "sharp"
+      ]
+    },
+    {
+      "name": "mic-off",
+      "tags": [
+        "mic",
+        "off"
+      ]
+    },
+    {
+      "name": "mic-off-circle",
+      "tags": [
+        "circle",
+        "mic",
+        "off"
+      ]
+    },
+    {
+      "name": "mic-off-circle-outline",
+      "tags": [
+        "circle",
+        "mic",
+        "off",
+        "outline"
+      ]
+    },
+    {
+      "name": "mic-off-circle-sharp",
+      "tags": [
+        "circle",
+        "mic",
+        "off",
+        "sharp"
+      ]
+    },
+    {
+      "name": "mic-off-outline",
+      "tags": [
+        "mic",
+        "off",
+        "outline"
+      ]
+    },
+    {
+      "name": "mic-off-sharp",
+      "tags": [
+        "mic",
+        "off",
+        "sharp"
+      ]
+    },
+    {
+      "name": "mic-outline",
+      "tags": [
+        "mic",
+        "outline"
+      ]
+    },
+    {
+      "name": "mic-sharp",
+      "tags": [
+        "mic",
+        "sharp"
+      ]
+    },
+    {
+      "name": "moon",
+      "tags": [
+        "moon"
+      ]
+    },
+    {
+      "name": "moon-outline",
+      "tags": [
+        "moon",
+        "outline"
+      ]
+    },
+    {
+      "name": "moon-sharp",
+      "tags": [
+        "moon",
+        "sharp"
+      ]
+    },
+    {
+      "name": "move",
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "name": "move-outline",
+      "tags": [
+        "move",
+        "outline"
+      ]
+    },
+    {
+      "name": "move-sharp",
+      "tags": [
+        "move",
+        "sharp"
+      ]
+    },
+    {
+      "name": "musical-note",
+      "tags": [
+        "musical",
+        "note"
+      ]
+    },
+    {
+      "name": "musical-note-outline",
+      "tags": [
+        "musical",
+        "note",
+        "outline"
+      ]
+    },
+    {
+      "name": "musical-note-sharp",
+      "tags": [
+        "musical",
+        "note",
+        "sharp"
+      ]
+    },
+    {
+      "name": "musical-notes",
+      "tags": [
+        "musical",
+        "notes"
+      ]
+    },
+    {
+      "name": "musical-notes-outline",
+      "tags": [
+        "musical",
+        "notes",
+        "outline"
+      ]
+    },
+    {
+      "name": "musical-notes-sharp",
+      "tags": [
+        "musical",
+        "notes",
+        "sharp"
+      ]
+    },
+    {
+      "name": "navigate",
+      "tags": [
+        "navigate"
+      ]
+    },
+    {
+      "name": "navigate-circle",
+      "tags": [
+        "circle",
+        "navigate"
+      ]
+    },
+    {
+      "name": "navigate-circle-outline",
+      "tags": [
+        "circle",
+        "navigate",
+        "outline"
+      ]
+    },
+    {
+      "name": "navigate-circle-sharp",
+      "tags": [
+        "circle",
+        "navigate",
+        "sharp"
+      ]
+    },
+    {
+      "name": "navigate-outline",
+      "tags": [
+        "navigate",
+        "outline"
+      ]
+    },
+    {
+      "name": "navigate-sharp",
+      "tags": [
+        "navigate",
+        "sharp"
+      ]
+    },
+    {
+      "name": "newspaper",
+      "tags": [
+        "newspaper"
+      ]
+    },
+    {
+      "name": "newspaper-outline",
+      "tags": [
+        "newspaper",
+        "outline"
+      ]
+    },
+    {
+      "name": "newspaper-sharp",
+      "tags": [
+        "newspaper",
+        "sharp"
+      ]
+    },
+    {
+      "name": "notifications",
+      "tags": [
+        "notifications"
+      ]
+    },
+    {
+      "name": "notifications-circle",
+      "tags": [
+        "circle",
+        "notifications"
+      ]
+    },
+    {
+      "name": "notifications-circle-outline",
+      "tags": [
+        "circle",
+        "notifications",
+        "outline"
+      ]
+    },
+    {
+      "name": "notifications-circle-sharp",
+      "tags": [
+        "circle",
+        "notifications",
+        "sharp"
+      ]
+    },
+    {
+      "name": "notifications-off",
+      "tags": [
+        "notifications",
+        "off"
+      ]
+    },
+    {
+      "name": "notifications-off-circle",
+      "tags": [
+        "circle",
+        "notifications",
+        "off"
+      ]
+    },
+    {
+      "name": "notifications-off-circle-outline",
+      "tags": [
+        "circle",
+        "notifications",
+        "off",
+        "outline"
+      ]
+    },
+    {
+      "name": "notifications-off-circle-sharp",
+      "tags": [
+        "circle",
+        "notifications",
+        "off",
+        "sharp"
+      ]
+    },
+    {
+      "name": "notifications-off-outline",
+      "tags": [
+        "notifications",
+        "off",
+        "outline"
+      ]
+    },
+    {
+      "name": "notifications-off-sharp",
+      "tags": [
+        "notifications",
+        "off",
+        "sharp"
+      ]
+    },
+    {
+      "name": "notifications-outline",
+      "tags": [
+        "notifications",
+        "outline"
+      ]
+    },
+    {
+      "name": "notifications-sharp",
+      "tags": [
+        "notifications",
+        "sharp"
+      ]
+    },
+    {
+      "name": "nuclear",
+      "tags": [
+        "nuclear"
+      ]
+    },
+    {
+      "name": "nuclear-outline",
+      "tags": [
+        "nuclear",
+        "outline"
+      ]
+    },
+    {
+      "name": "nuclear-sharp",
+      "tags": [
+        "nuclear",
+        "sharp"
+      ]
+    },
+    {
+      "name": "nutrition",
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "name": "nutrition-outline",
+      "tags": [
+        "nutrition",
+        "outline"
+      ]
+    },
+    {
+      "name": "nutrition-sharp",
+      "tags": [
+        "nutrition",
+        "sharp"
+      ]
+    },
+    {
+      "name": "open",
+      "tags": [
+        "open"
+      ]
+    },
+    {
+      "name": "open-outline",
+      "tags": [
+        "open",
+        "outline"
+      ]
+    },
+    {
+      "name": "open-sharp",
+      "tags": [
+        "open",
+        "sharp"
+      ]
+    },
+    {
+      "name": "options",
+      "tags": [
+        "options"
+      ]
+    },
+    {
+      "name": "options-outline",
+      "tags": [
+        "options",
+        "outline"
+      ]
+    },
+    {
+      "name": "options-sharp",
+      "tags": [
+        "options",
+        "sharp"
+      ]
+    },
+    {
+      "name": "paper-plane",
+      "tags": [
+        "paper",
+        "plane"
+      ]
+    },
+    {
+      "name": "paper-plane-outline",
+      "tags": [
+        "outline",
+        "paper",
+        "plane"
+      ]
+    },
+    {
+      "name": "paper-plane-sharp",
+      "tags": [
+        "paper",
+        "plane",
+        "sharp"
+      ]
+    },
+    {
+      "name": "partly-sunny",
+      "tags": [
+        "partly",
+        "sunny"
+      ]
+    },
+    {
+      "name": "partly-sunny-outline",
+      "tags": [
+        "outline",
+        "partly",
+        "sunny"
+      ]
+    },
+    {
+      "name": "partly-sunny-sharp",
+      "tags": [
+        "partly",
+        "sharp",
+        "sunny"
+      ]
+    },
+    {
+      "name": "pause",
+      "tags": [
+        "pause"
+      ]
+    },
+    {
+      "name": "pause-circle",
+      "tags": [
+        "circle",
+        "pause"
+      ]
+    },
+    {
+      "name": "pause-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "pause"
+      ]
+    },
+    {
+      "name": "pause-circle-sharp",
+      "tags": [
+        "circle",
+        "pause",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pause-outline",
+      "tags": [
+        "outline",
+        "pause"
+      ]
+    },
+    {
+      "name": "pause-sharp",
+      "tags": [
+        "pause",
+        "sharp"
+      ]
+    },
+    {
+      "name": "paw",
+      "tags": [
+        "paw"
+      ]
+    },
+    {
+      "name": "paw-outline",
+      "tags": [
+        "outline",
+        "paw"
+      ]
+    },
+    {
+      "name": "paw-sharp",
+      "tags": [
+        "paw",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pencil",
+      "tags": [
+        "pencil"
+      ]
+    },
+    {
+      "name": "pencil-outline",
+      "tags": [
+        "outline",
+        "pencil"
+      ]
+    },
+    {
+      "name": "pencil-sharp",
+      "tags": [
+        "pencil",
+        "sharp"
+      ]
+    },
+    {
+      "name": "people",
+      "tags": [
+        "people"
+      ]
+    },
+    {
+      "name": "people-circle",
+      "tags": [
+        "circle",
+        "people"
+      ]
+    },
+    {
+      "name": "people-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "people"
+      ]
+    },
+    {
+      "name": "people-circle-sharp",
+      "tags": [
+        "circle",
+        "people",
+        "sharp"
+      ]
+    },
+    {
+      "name": "people-outline",
+      "tags": [
+        "outline",
+        "people"
+      ]
+    },
+    {
+      "name": "people-sharp",
+      "tags": [
+        "people",
+        "sharp"
+      ]
+    },
+    {
+      "name": "person",
+      "tags": [
+        "person"
+      ]
+    },
+    {
+      "name": "person-add",
+      "tags": [
+        "add",
+        "person"
+      ]
+    },
+    {
+      "name": "person-add-outline",
+      "tags": [
+        "add",
+        "outline",
+        "person"
+      ]
+    },
+    {
+      "name": "person-add-sharp",
+      "tags": [
+        "add",
+        "person",
+        "sharp"
+      ]
+    },
+    {
+      "name": "person-circle",
+      "tags": [
+        "circle",
+        "person"
+      ]
+    },
+    {
+      "name": "person-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "person"
+      ]
+    },
+    {
+      "name": "person-circle-sharp",
+      "tags": [
+        "circle",
+        "person",
+        "sharp"
+      ]
+    },
+    {
+      "name": "person-outline",
+      "tags": [
+        "outline",
+        "person"
+      ]
+    },
+    {
+      "name": "person-remove",
+      "tags": [
+        "person",
+        "remove"
+      ]
+    },
+    {
+      "name": "person-remove-outline",
+      "tags": [
+        "outline",
+        "person",
+        "remove"
+      ]
+    },
+    {
+      "name": "person-remove-sharp",
+      "tags": [
+        "person",
+        "remove",
+        "sharp"
+      ]
+    },
+    {
+      "name": "person-sharp",
+      "tags": [
+        "person",
+        "sharp"
+      ]
+    },
+    {
+      "name": "phone-landscape",
+      "tags": [
+        "landscape",
+        "phone"
+      ]
+    },
+    {
+      "name": "phone-landscape-outline",
+      "tags": [
+        "landscape",
+        "outline",
+        "phone"
+      ]
+    },
+    {
+      "name": "phone-landscape-sharp",
+      "tags": [
+        "landscape",
+        "phone",
+        "sharp"
+      ]
+    },
+    {
+      "name": "phone-portrait",
+      "tags": [
+        "phone",
+        "portrait"
+      ]
+    },
+    {
+      "name": "phone-portrait-outline",
+      "tags": [
+        "outline",
+        "phone",
+        "portrait"
+      ]
+    },
+    {
+      "name": "phone-portrait-sharp",
+      "tags": [
+        "phone",
+        "portrait",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pie-chart",
+      "tags": [
+        "chart",
+        "pie"
+      ]
+    },
+    {
+      "name": "pie-chart-outline",
+      "tags": [
+        "chart",
+        "outline",
+        "pie"
+      ]
+    },
+    {
+      "name": "pie-chart-sharp",
+      "tags": [
+        "chart",
+        "pie",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pin",
+      "tags": [
+        "pin"
+      ]
+    },
+    {
+      "name": "pin-outline",
+      "tags": [
+        "outline",
+        "pin"
+      ]
+    },
+    {
+      "name": "pin-sharp",
+      "tags": [
+        "pin",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pint",
+      "tags": [
+        "pint"
+      ]
+    },
+    {
+      "name": "pint-outline",
+      "tags": [
+        "outline",
+        "pint"
+      ]
+    },
+    {
+      "name": "pint-sharp",
+      "tags": [
+        "pint",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pizza",
+      "tags": [
+        "pizza"
+      ]
+    },
+    {
+      "name": "pizza-outline",
+      "tags": [
+        "outline",
+        "pizza"
+      ]
+    },
+    {
+      "name": "pizza-sharp",
+      "tags": [
+        "pizza",
+        "sharp"
+      ]
+    },
+    {
+      "name": "planet",
+      "tags": [
+        "planet"
+      ]
+    },
+    {
+      "name": "planet-outline",
+      "tags": [
+        "outline",
+        "planet"
+      ]
+    },
+    {
+      "name": "planet-sharp",
+      "tags": [
+        "planet",
+        "sharp"
+      ]
+    },
+    {
+      "name": "play",
+      "tags": [
+        "play"
+      ]
+    },
+    {
+      "name": "play-back",
+      "tags": [
+        "back",
+        "play"
+      ]
+    },
+    {
+      "name": "play-back-circle",
+      "tags": [
+        "back",
+        "circle",
+        "play"
+      ]
+    },
+    {
+      "name": "play-back-circle-outline",
+      "tags": [
+        "back",
+        "circle",
+        "outline",
+        "play"
+      ]
+    },
+    {
+      "name": "play-back-circle-sharp",
+      "tags": [
+        "back",
+        "circle",
+        "play",
+        "sharp"
+      ]
+    },
+    {
+      "name": "play-back-outline",
+      "tags": [
+        "back",
+        "outline",
+        "play"
+      ]
+    },
+    {
+      "name": "play-back-sharp",
+      "tags": [
+        "back",
+        "play",
+        "sharp"
+      ]
+    },
+    {
+      "name": "play-circle",
+      "tags": [
+        "circle",
+        "play"
+      ]
+    },
+    {
+      "name": "play-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "play"
+      ]
+    },
+    {
+      "name": "play-circle-sharp",
+      "tags": [
+        "circle",
+        "play",
+        "sharp"
+      ]
+    },
+    {
+      "name": "play-forward",
+      "tags": [
+        "forward",
+        "play"
+      ]
+    },
+    {
+      "name": "play-forward-circle",
+      "tags": [
+        "circle",
+        "forward",
+        "play"
+      ]
+    },
+    {
+      "name": "play-forward-circle-outline",
+      "tags": [
+        "circle",
+        "forward",
+        "outline",
+        "play"
+      ]
+    },
+    {
+      "name": "play-forward-circle-sharp",
+      "tags": [
+        "circle",
+        "forward",
+        "play",
+        "sharp"
+      ]
+    },
+    {
+      "name": "play-forward-outline",
+      "tags": [
+        "forward",
+        "outline",
+        "play"
+      ]
+    },
+    {
+      "name": "play-forward-sharp",
+      "tags": [
+        "forward",
+        "play",
+        "sharp"
+      ]
+    },
+    {
+      "name": "play-outline",
+      "tags": [
+        "outline",
+        "play"
+      ]
+    },
+    {
+      "name": "play-sharp",
+      "tags": [
+        "play",
+        "sharp"
+      ]
+    },
+    {
+      "name": "play-skip-back",
+      "tags": [
+        "back",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-back-circle",
+      "tags": [
+        "back",
+        "circle",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-back-circle-outline",
+      "tags": [
+        "back",
+        "circle",
+        "outline",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-back-circle-sharp",
+      "tags": [
+        "back",
+        "circle",
+        "play",
+        "sharp",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-back-outline",
+      "tags": [
+        "back",
+        "outline",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-back-sharp",
+      "tags": [
+        "back",
+        "play",
+        "sharp",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-forward",
+      "tags": [
+        "forward",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-forward-circle",
+      "tags": [
+        "circle",
+        "forward",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-forward-circle-outline",
+      "tags": [
+        "circle",
+        "forward",
+        "outline",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-forward-circle-sharp",
+      "tags": [
+        "circle",
+        "forward",
+        "play",
+        "sharp",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-forward-outline",
+      "tags": [
+        "forward",
+        "outline",
+        "play",
+        "skip"
+      ]
+    },
+    {
+      "name": "play-skip-forward-sharp",
+      "tags": [
+        "forward",
+        "play",
+        "sharp",
+        "skip"
+      ]
+    },
+    {
+      "name": "podium",
+      "tags": [
+        "podium"
+      ]
+    },
+    {
+      "name": "podium-outline",
+      "tags": [
+        "outline",
+        "podium"
+      ]
+    },
+    {
+      "name": "podium-sharp",
+      "tags": [
+        "podium",
+        "sharp"
+      ]
+    },
+    {
+      "name": "power",
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "name": "power-outline",
+      "tags": [
+        "outline",
+        "power"
+      ]
+    },
+    {
+      "name": "power-sharp",
+      "tags": [
+        "power",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pricetag",
+      "tags": [
+        "pricetag"
+      ]
+    },
+    {
+      "name": "pricetag-outline",
+      "tags": [
+        "outline",
+        "pricetag"
+      ]
+    },
+    {
+      "name": "pricetag-sharp",
+      "tags": [
+        "pricetag",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pricetags",
+      "tags": [
+        "pricetags"
+      ]
+    },
+    {
+      "name": "pricetags-outline",
+      "tags": [
+        "outline",
+        "pricetags"
+      ]
+    },
+    {
+      "name": "pricetags-sharp",
+      "tags": [
+        "pricetags",
+        "sharp"
+      ]
+    },
+    {
+      "name": "print",
+      "tags": [
+        "print"
+      ]
+    },
+    {
+      "name": "print-outline",
+      "tags": [
+        "outline",
+        "print"
+      ]
+    },
+    {
+      "name": "print-sharp",
+      "tags": [
+        "print",
+        "sharp"
+      ]
+    },
+    {
+      "name": "pulse",
+      "tags": [
+        "pulse"
+      ]
+    },
+    {
+      "name": "pulse-outline",
+      "tags": [
+        "outline",
+        "pulse"
+      ]
+    },
+    {
+      "name": "pulse-sharp",
+      "tags": [
+        "pulse",
+        "sharp"
+      ]
+    },
+    {
+      "name": "push",
+      "tags": [
+        "push"
+      ]
+    },
+    {
+      "name": "push-outline",
+      "tags": [
+        "outline",
+        "push"
+      ]
+    },
+    {
+      "name": "push-sharp",
+      "tags": [
+        "push",
+        "sharp"
+      ]
+    },
+    {
+      "name": "qr-code",
+      "tags": [
+        "code",
+        "qr"
+      ]
+    },
+    {
+      "name": "qr-code-outline",
+      "tags": [
+        "code",
+        "outline",
+        "qr"
+      ]
+    },
+    {
+      "name": "qr-code-sharp",
+      "tags": [
+        "code",
+        "qr",
+        "sharp"
+      ]
+    },
+    {
+      "name": "radio",
+      "tags": [
+        "radio"
+      ]
+    },
+    {
+      "name": "radio-button-off",
+      "tags": [
+        "button",
+        "off",
+        "radio"
+      ]
+    },
+    {
+      "name": "radio-button-off-outline",
+      "tags": [
+        "button",
+        "off",
+        "outline",
+        "radio"
+      ]
+    },
+    {
+      "name": "radio-button-off-sharp",
+      "tags": [
+        "button",
+        "off",
+        "radio",
+        "sharp"
+      ]
+    },
+    {
+      "name": "radio-button-on",
+      "tags": [
+        "button",
+        "on",
+        "radio"
+      ]
+    },
+    {
+      "name": "radio-button-on-outline",
+      "tags": [
+        "button",
+        "on",
+        "outline",
+        "radio"
+      ]
+    },
+    {
+      "name": "radio-button-on-sharp",
+      "tags": [
+        "button",
+        "on",
+        "radio",
+        "sharp"
+      ]
+    },
+    {
+      "name": "radio-outline",
+      "tags": [
+        "outline",
+        "radio"
+      ]
+    },
+    {
+      "name": "radio-sharp",
+      "tags": [
+        "radio",
+        "sharp"
+      ]
+    },
+    {
+      "name": "rainy",
+      "tags": [
+        "rainy"
+      ]
+    },
+    {
+      "name": "rainy-outline",
+      "tags": [
+        "outline",
+        "rainy"
+      ]
+    },
+    {
+      "name": "rainy-sharp",
+      "tags": [
+        "rainy",
+        "sharp"
+      ]
+    },
+    {
+      "name": "reader",
+      "tags": [
+        "reader"
+      ]
+    },
+    {
+      "name": "reader-outline",
+      "tags": [
+        "outline",
+        "reader"
+      ]
+    },
+    {
+      "name": "reader-sharp",
+      "tags": [
+        "reader",
+        "sharp"
+      ]
+    },
+    {
+      "name": "receipt",
+      "tags": [
+        "receipt"
+      ]
+    },
+    {
+      "name": "receipt-outline",
+      "tags": [
+        "outline",
+        "receipt"
+      ]
+    },
+    {
+      "name": "receipt-sharp",
+      "tags": [
+        "receipt",
+        "sharp"
+      ]
+    },
+    {
+      "name": "recording",
+      "tags": [
+        "recording"
+      ]
+    },
+    {
+      "name": "recording-outline",
+      "tags": [
+        "outline",
+        "recording"
+      ]
+    },
+    {
+      "name": "recording-sharp",
+      "tags": [
+        "recording",
+        "sharp"
+      ]
+    },
+    {
+      "name": "refresh",
+      "tags": [
+        "refresh"
+      ]
+    },
+    {
+      "name": "refresh-circle",
+      "tags": [
+        "circle",
+        "refresh"
+      ]
+    },
+    {
+      "name": "refresh-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "refresh"
+      ]
+    },
+    {
+      "name": "refresh-circle-sharp",
+      "tags": [
+        "circle",
+        "refresh",
+        "sharp"
+      ]
+    },
+    {
+      "name": "refresh-outline",
+      "tags": [
+        "outline",
+        "refresh"
+      ]
+    },
+    {
+      "name": "refresh-sharp",
+      "tags": [
+        "refresh",
+        "sharp"
+      ]
+    },
+    {
+      "name": "reload",
+      "tags": [
+        "reload"
+      ]
+    },
+    {
+      "name": "reload-circle",
+      "tags": [
+        "circle",
+        "reload"
+      ]
+    },
+    {
+      "name": "reload-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "reload"
+      ]
+    },
+    {
+      "name": "reload-circle-sharp",
+      "tags": [
+        "circle",
+        "reload",
+        "sharp"
+      ]
+    },
+    {
+      "name": "reload-outline",
+      "tags": [
+        "outline",
+        "reload"
+      ]
+    },
+    {
+      "name": "reload-sharp",
+      "tags": [
+        "reload",
+        "sharp"
+      ]
+    },
+    {
+      "name": "remove",
+      "tags": [
+        "remove"
+      ]
+    },
+    {
+      "name": "remove-circle",
+      "tags": [
+        "circle",
+        "remove"
+      ]
+    },
+    {
+      "name": "remove-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "remove"
+      ]
+    },
+    {
+      "name": "remove-circle-sharp",
+      "tags": [
+        "circle",
+        "remove",
+        "sharp"
+      ]
+    },
+    {
+      "name": "remove-outline",
+      "tags": [
+        "outline",
+        "remove"
+      ]
+    },
+    {
+      "name": "remove-sharp",
+      "tags": [
+        "remove",
+        "sharp"
+      ]
+    },
+    {
+      "name": "reorder-four",
+      "tags": [
+        "four",
+        "reorder"
+      ]
+    },
+    {
+      "name": "reorder-four-outline",
+      "tags": [
+        "four",
+        "outline",
+        "reorder"
+      ]
+    },
+    {
+      "name": "reorder-four-sharp",
+      "tags": [
+        "four",
+        "reorder",
+        "sharp"
+      ]
+    },
+    {
+      "name": "reorder-three",
+      "tags": [
+        "reorder",
+        "three"
+      ]
+    },
+    {
+      "name": "reorder-three-outline",
+      "tags": [
+        "outline",
+        "reorder",
+        "three"
+      ]
+    },
+    {
+      "name": "reorder-three-sharp",
+      "tags": [
+        "reorder",
+        "sharp",
+        "three"
+      ]
+    },
+    {
+      "name": "reorder-two",
+      "tags": [
+        "reorder",
+        "two"
+      ]
+    },
+    {
+      "name": "reorder-two-outline",
+      "tags": [
+        "outline",
+        "reorder",
+        "two"
+      ]
+    },
+    {
+      "name": "reorder-two-sharp",
+      "tags": [
+        "reorder",
+        "sharp",
+        "two"
+      ]
+    },
+    {
+      "name": "repeat",
+      "tags": [
+        "repeat"
+      ]
+    },
+    {
+      "name": "repeat-outline",
+      "tags": [
+        "outline",
+        "repeat"
+      ]
+    },
+    {
+      "name": "repeat-sharp",
+      "tags": [
+        "repeat",
+        "sharp"
+      ]
+    },
+    {
+      "name": "resize",
+      "tags": [
+        "resize"
+      ]
+    },
+    {
+      "name": "resize-outline",
+      "tags": [
+        "outline",
+        "resize"
+      ]
+    },
+    {
+      "name": "resize-sharp",
+      "tags": [
+        "resize",
+        "sharp"
+      ]
+    },
+    {
+      "name": "restaurant",
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "name": "restaurant-outline",
+      "tags": [
+        "outline",
+        "restaurant"
+      ]
+    },
+    {
+      "name": "restaurant-sharp",
+      "tags": [
+        "restaurant",
+        "sharp"
+      ]
+    },
+    {
+      "name": "return-down-back",
+      "tags": [
+        "back",
+        "down",
+        "return"
+      ]
+    },
+    {
+      "name": "return-down-back-outline",
+      "tags": [
+        "back",
+        "down",
+        "outline",
+        "return"
+      ]
+    },
+    {
+      "name": "return-down-back-sharp",
+      "tags": [
+        "back",
+        "down",
+        "return",
+        "sharp"
+      ]
+    },
+    {
+      "name": "return-down-forward",
+      "tags": [
+        "down",
+        "forward",
+        "return"
+      ]
+    },
+    {
+      "name": "return-down-forward-outline",
+      "tags": [
+        "down",
+        "forward",
+        "outline",
+        "return"
+      ]
+    },
+    {
+      "name": "return-down-forward-sharp",
+      "tags": [
+        "down",
+        "forward",
+        "return",
+        "sharp"
+      ]
+    },
+    {
+      "name": "return-up-back",
+      "tags": [
+        "back",
+        "return",
+        "up"
+      ]
+    },
+    {
+      "name": "return-up-back-outline",
+      "tags": [
+        "back",
+        "outline",
+        "return",
+        "up"
+      ]
+    },
+    {
+      "name": "return-up-back-sharp",
+      "tags": [
+        "back",
+        "return",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "return-up-forward",
+      "tags": [
+        "forward",
+        "return",
+        "up"
+      ]
+    },
+    {
+      "name": "return-up-forward-outline",
+      "tags": [
+        "forward",
+        "outline",
+        "return",
+        "up"
+      ]
+    },
+    {
+      "name": "return-up-forward-sharp",
+      "tags": [
+        "forward",
+        "return",
+        "sharp",
+        "up"
+      ]
+    },
+    {
+      "name": "ribbon",
+      "tags": [
+        "ribbon"
+      ]
+    },
+    {
+      "name": "ribbon-outline",
+      "tags": [
+        "outline",
+        "ribbon"
+      ]
+    },
+    {
+      "name": "ribbon-sharp",
+      "tags": [
+        "ribbon",
+        "sharp"
+      ]
+    },
+    {
+      "name": "rocket",
+      "tags": [
+        "rocket"
+      ]
+    },
+    {
+      "name": "rocket-outline",
+      "tags": [
+        "outline",
+        "rocket"
+      ]
+    },
+    {
+      "name": "rocket-sharp",
+      "tags": [
+        "rocket",
+        "sharp"
+      ]
+    },
+    {
+      "name": "rose",
+      "tags": [
+        "rose"
+      ]
+    },
+    {
+      "name": "rose-outline",
+      "tags": [
+        "outline",
+        "rose"
+      ]
+    },
+    {
+      "name": "rose-sharp",
+      "tags": [
+        "rose",
+        "sharp"
+      ]
+    },
+    {
+      "name": "sad",
+      "tags": [
+        "sad"
+      ]
+    },
+    {
+      "name": "sad-outline",
+      "tags": [
+        "outline",
+        "sad"
+      ]
+    },
+    {
+      "name": "sad-sharp",
+      "tags": [
+        "sad",
+        "sharp"
+      ]
+    },
+    {
+      "name": "save",
+      "tags": [
+        "save"
+      ]
+    },
+    {
+      "name": "save-outline",
+      "tags": [
+        "outline",
+        "save"
+      ]
+    },
+    {
+      "name": "save-sharp",
+      "tags": [
+        "save",
+        "sharp"
+      ]
+    },
+    {
+      "name": "scan",
+      "tags": [
+        "scan"
+      ]
+    },
+    {
+      "name": "scan-circle",
+      "tags": [
+        "circle",
+        "scan"
+      ]
+    },
+    {
+      "name": "scan-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "scan"
+      ]
+    },
+    {
+      "name": "scan-circle-sharp",
+      "tags": [
+        "circle",
+        "scan",
+        "sharp"
+      ]
+    },
+    {
+      "name": "scan-outline",
+      "tags": [
+        "outline",
+        "scan"
+      ]
+    },
+    {
+      "name": "scan-sharp",
+      "tags": [
+        "scan",
+        "sharp"
+      ]
+    },
+    {
+      "name": "school",
+      "tags": [
+        "school"
+      ]
+    },
+    {
+      "name": "school-outline",
+      "tags": [
+        "outline",
+        "school"
+      ]
+    },
+    {
+      "name": "school-sharp",
+      "tags": [
+        "school",
+        "sharp"
+      ]
+    },
+    {
+      "name": "search",
+      "tags": [
+        "search"
+      ]
+    },
+    {
+      "name": "search-circle",
+      "tags": [
+        "circle",
+        "search"
+      ]
+    },
+    {
+      "name": "search-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "search"
+      ]
+    },
+    {
+      "name": "search-circle-sharp",
+      "tags": [
+        "circle",
+        "search",
+        "sharp"
+      ]
+    },
+    {
+      "name": "search-outline",
+      "tags": [
+        "outline",
+        "search"
+      ]
+    },
+    {
+      "name": "search-sharp",
+      "tags": [
+        "search",
+        "sharp"
+      ]
+    },
+    {
+      "name": "send",
+      "tags": [
+        "send"
+      ]
+    },
+    {
+      "name": "send-outline",
+      "tags": [
+        "outline",
+        "send"
+      ]
+    },
+    {
+      "name": "send-sharp",
+      "tags": [
+        "send",
+        "sharp"
+      ]
+    },
+    {
+      "name": "server",
+      "tags": [
+        "server"
+      ]
+    },
+    {
+      "name": "server-outline",
+      "tags": [
+        "outline",
+        "server"
+      ]
+    },
+    {
+      "name": "server-sharp",
+      "tags": [
+        "server",
+        "sharp"
+      ]
+    },
+    {
+      "name": "settings",
+      "tags": [
+        "settings"
+      ]
+    },
+    {
+      "name": "settings-outline",
+      "tags": [
+        "outline",
+        "settings"
+      ]
+    },
+    {
+      "name": "settings-sharp",
+      "tags": [
+        "settings",
+        "sharp"
+      ]
+    },
+    {
+      "name": "shapes",
+      "tags": [
+        "shapes"
+      ]
+    },
+    {
+      "name": "shapes-outline",
+      "tags": [
+        "outline",
+        "shapes"
+      ]
+    },
+    {
+      "name": "shapes-sharp",
+      "tags": [
+        "shapes",
+        "sharp"
+      ]
+    },
+    {
+      "name": "share",
+      "tags": [
+        "share"
+      ]
+    },
+    {
+      "name": "share-outline",
+      "tags": [
+        "outline",
+        "share"
+      ]
+    },
+    {
+      "name": "share-sharp",
+      "tags": [
+        "share",
+        "sharp"
+      ]
+    },
+    {
+      "name": "share-social",
+      "tags": [
+        "share",
+        "social"
+      ]
+    },
+    {
+      "name": "share-social-outline",
+      "tags": [
+        "outline",
+        "share",
+        "social"
+      ]
+    },
+    {
+      "name": "share-social-sharp",
+      "tags": [
+        "share",
+        "sharp",
+        "social"
+      ]
+    },
+    {
+      "name": "shield",
+      "tags": [
+        "shield"
+      ]
+    },
+    {
+      "name": "shield-checkmark",
+      "tags": [
+        "checkmark",
+        "shield"
+      ]
+    },
+    {
+      "name": "shield-checkmark-outline",
+      "tags": [
+        "checkmark",
+        "outline",
+        "shield"
+      ]
+    },
+    {
+      "name": "shield-checkmark-sharp",
+      "tags": [
+        "checkmark",
+        "sharp",
+        "shield"
+      ]
+    },
+    {
+      "name": "shield-outline",
+      "tags": [
+        "outline",
+        "shield"
+      ]
+    },
+    {
+      "name": "shield-sharp",
+      "tags": [
+        "sharp",
+        "shield"
+      ]
+    },
+    {
+      "name": "shirt",
+      "tags": [
+        "shirt"
+      ]
+    },
+    {
+      "name": "shirt-outline",
+      "tags": [
+        "outline",
+        "shirt"
+      ]
+    },
+    {
+      "name": "shirt-sharp",
+      "tags": [
+        "sharp",
+        "shirt"
+      ]
+    },
+    {
+      "name": "shuffle",
+      "tags": [
+        "shuffle"
+      ]
+    },
+    {
+      "name": "shuffle-outline",
+      "tags": [
+        "outline",
+        "shuffle"
+      ]
+    },
+    {
+      "name": "shuffle-sharp",
+      "tags": [
+        "sharp",
+        "shuffle"
+      ]
+    },
+    {
+      "name": "skull",
+      "tags": [
+        "skull"
+      ]
+    },
+    {
+      "name": "skull-outline",
+      "tags": [
+        "outline",
+        "skull"
+      ]
+    },
+    {
+      "name": "skull-sharp",
+      "tags": [
+        "sharp",
+        "skull"
+      ]
+    },
+    {
+      "name": "snow",
+      "tags": [
+        "snow"
+      ]
+    },
+    {
+      "name": "snow-outline",
+      "tags": [
+        "outline",
+        "snow"
+      ]
+    },
+    {
+      "name": "snow-sharp",
+      "tags": [
+        "sharp",
+        "snow"
+      ]
+    },
+    {
+      "name": "speedometer",
+      "tags": [
+        "speedometer"
+      ]
+    },
+    {
+      "name": "speedometer-outline",
+      "tags": [
+        "outline",
+        "speedometer"
+      ]
+    },
+    {
+      "name": "speedometer-sharp",
+      "tags": [
+        "sharp",
+        "speedometer"
+      ]
+    },
+    {
+      "name": "square",
+      "tags": [
+        "square"
+      ]
+    },
+    {
+      "name": "square-outline",
+      "tags": [
+        "outline",
+        "square"
+      ]
+    },
+    {
+      "name": "square-sharp",
+      "tags": [
+        "sharp",
+        "square"
+      ]
+    },
+    {
+      "name": "star",
+      "tags": [
+        "star"
+      ]
+    },
+    {
+      "name": "star-half",
+      "tags": [
+        "half",
+        "star"
+      ]
+    },
+    {
+      "name": "star-half-outline",
+      "tags": [
+        "half",
+        "outline",
+        "star"
+      ]
+    },
+    {
+      "name": "star-half-sharp",
+      "tags": [
+        "half",
+        "sharp",
+        "star"
+      ]
+    },
+    {
+      "name": "star-outline",
+      "tags": [
+        "outline",
+        "star"
+      ]
+    },
+    {
+      "name": "star-sharp",
+      "tags": [
+        "sharp",
+        "star"
+      ]
+    },
+    {
+      "name": "stats-chart",
+      "tags": [
+        "chart",
+        "stats"
+      ]
+    },
+    {
+      "name": "stats-chart-outline",
+      "tags": [
+        "chart",
+        "outline",
+        "stats"
+      ]
+    },
+    {
+      "name": "stats-chart-sharp",
+      "tags": [
+        "chart",
+        "sharp",
+        "stats"
+      ]
+    },
+    {
+      "name": "stop",
+      "tags": [
+        "stop"
+      ]
+    },
+    {
+      "name": "stop-circle",
+      "tags": [
+        "circle",
+        "stop"
+      ]
+    },
+    {
+      "name": "stop-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "stop"
+      ]
+    },
+    {
+      "name": "stop-circle-sharp",
+      "tags": [
+        "circle",
+        "sharp",
+        "stop"
+      ]
+    },
+    {
+      "name": "stop-outline",
+      "tags": [
+        "outline",
+        "stop"
+      ]
+    },
+    {
+      "name": "stop-sharp",
+      "tags": [
+        "sharp",
+        "stop"
+      ]
+    },
+    {
+      "name": "stopwatch",
+      "tags": [
+        "stopwatch"
+      ]
+    },
+    {
+      "name": "stopwatch-outline",
+      "tags": [
+        "outline",
+        "stopwatch"
+      ]
+    },
+    {
+      "name": "stopwatch-sharp",
+      "tags": [
+        "sharp",
+        "stopwatch"
+      ]
+    },
+    {
+      "name": "subway",
+      "tags": [
+        "subway"
+      ]
+    },
+    {
+      "name": "subway-outline",
+      "tags": [
+        "outline",
+        "subway"
+      ]
+    },
+    {
+      "name": "subway-sharp",
+      "tags": [
+        "sharp",
+        "subway"
+      ]
+    },
+    {
+      "name": "sunny",
+      "tags": [
+        "sunny"
+      ]
+    },
+    {
+      "name": "sunny-outline",
+      "tags": [
+        "outline",
+        "sunny"
+      ]
+    },
+    {
+      "name": "sunny-sharp",
+      "tags": [
+        "sharp",
+        "sunny"
+      ]
+    },
+    {
+      "name": "swap-horizontal",
+      "tags": [
+        "horizontal",
+        "swap"
+      ]
+    },
+    {
+      "name": "swap-horizontal-outline",
+      "tags": [
+        "horizontal",
+        "outline",
+        "swap"
+      ]
+    },
+    {
+      "name": "swap-horizontal-sharp",
+      "tags": [
+        "horizontal",
+        "sharp",
+        "swap"
+      ]
+    },
+    {
+      "name": "swap-vertical",
+      "tags": [
+        "swap",
+        "vertical"
+      ]
+    },
+    {
+      "name": "swap-vertical-outline",
+      "tags": [
+        "outline",
+        "swap",
+        "vertical"
+      ]
+    },
+    {
+      "name": "swap-vertical-sharp",
+      "tags": [
+        "sharp",
+        "swap",
+        "vertical"
+      ]
+    },
+    {
+      "name": "sync",
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "sync-circle",
+      "tags": [
+        "circle",
+        "sync"
+      ]
+    },
+    {
+      "name": "sync-circle-outline",
+      "tags": [
+        "circle",
+        "outline",
+        "sync"
+      ]
+    },
+    {
+      "name": "sync-circle-sharp",
+      "tags": [
+        "circle",
+        "sharp",
+        "sync"
+      ]
+    },
+    {
+      "name": "sync-outline",
+      "tags": [
+        "outline",
+        "sync"
+      ]
+    },
+    {
+      "name": "sync-sharp",
+      "tags": [
+        "sharp",
+        "sync"
+      ]
+    },
+    {
+      "name": "tablet-landscape",
+      "tags": [
+        "landscape",
+        "tablet"
+      ]
+    },
+    {
+      "name": "tablet-landscape-outline",
+      "tags": [
+        "landscape",
+        "outline",
+        "tablet"
+      ]
+    },
+    {
+      "name": "tablet-landscape-sharp",
+      "tags": [
+        "landscape",
+        "sharp",
+        "tablet"
+      ]
+    },
+    {
+      "name": "tablet-portrait",
+      "tags": [
+        "portrait",
+        "tablet"
+      ]
+    },
+    {
+      "name": "tablet-portrait-outline",
+      "tags": [
+        "outline",
+        "portrait",
+        "tablet"
+      ]
+    },
+    {
+      "name": "tablet-portrait-sharp",
+      "tags": [
+        "portrait",
+        "sharp",
+        "tablet"
+      ]
+    },
+    {
+      "name": "tennisball",
+      "tags": [
+        "tennisball"
+      ]
+    },
+    {
+      "name": "tennisball-outline",
+      "tags": [
+        "outline",
+        "tennisball"
+      ]
+    },
+    {
+      "name": "tennisball-sharp",
+      "tags": [
+        "sharp",
+        "tennisball"
+      ]
+    },
+    {
+      "name": "terminal",
+      "tags": [
+        "terminal"
+      ]
+    },
+    {
+      "name": "terminal-outline",
+      "tags": [
+        "outline",
+        "terminal"
+      ]
+    },
+    {
+      "name": "terminal-sharp",
+      "tags": [
+        "sharp",
+        "terminal"
+      ]
+    },
+    {
+      "name": "text",
+      "tags": [
+        "text"
+      ]
+    },
+    {
+      "name": "text-outline",
+      "tags": [
+        "outline",
+        "text"
+      ]
+    },
+    {
+      "name": "text-sharp",
+      "tags": [
+        "sharp",
+        "text"
+      ]
+    },
+    {
+      "name": "thermometer",
+      "tags": [
+        "thermometer"
+      ]
+    },
+    {
+      "name": "thermometer-outline",
+      "tags": [
+        "outline",
+        "thermometer"
+      ]
+    },
+    {
+      "name": "thermometer-sharp",
+      "tags": [
+        "sharp",
+        "thermometer"
+      ]
+    },
+    {
+      "name": "thumbs-down",
+      "tags": [
+        "down",
+        "thumbs"
+      ]
+    },
+    {
+      "name": "thumbs-down-outline",
+      "tags": [
+        "down",
+        "outline",
+        "thumbs"
+      ]
+    },
+    {
+      "name": "thumbs-down-sharp",
+      "tags": [
+        "down",
+        "sharp",
+        "thumbs"
+      ]
+    },
+    {
+      "name": "thumbs-up",
+      "tags": [
+        "thumbs",
+        "up"
+      ]
+    },
+    {
+      "name": "thumbs-up-outline",
+      "tags": [
+        "outline",
+        "thumbs",
+        "up"
+      ]
+    },
+    {
+      "name": "thumbs-up-sharp",
+      "tags": [
+        "sharp",
+        "thumbs",
+        "up"
+      ]
+    },
+    {
+      "name": "thunderstorm",
+      "tags": [
+        "thunderstorm"
+      ]
+    },
+    {
+      "name": "thunderstorm-outline",
+      "tags": [
+        "outline",
+        "thunderstorm"
+      ]
+    },
+    {
+      "name": "thunderstorm-sharp",
+      "tags": [
+        "sharp",
+        "thunderstorm"
+      ]
+    },
+    {
+      "name": "time",
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "name": "time-outline",
+      "tags": [
+        "outline",
+        "time"
+      ]
+    },
+    {
+      "name": "time-sharp",
+      "tags": [
+        "sharp",
+        "time"
+      ]
+    },
+    {
+      "name": "timer",
+      "tags": [
+        "timer"
+      ]
+    },
+    {
+      "name": "timer-outline",
+      "tags": [
+        "outline",
+        "timer"
+      ]
+    },
+    {
+      "name": "timer-sharp",
+      "tags": [
+        "sharp",
+        "timer"
+      ]
+    },
+    {
+      "name": "today",
+      "tags": [
+        "today"
+      ]
+    },
+    {
+      "name": "today-outline",
+      "tags": [
+        "outline",
+        "today"
+      ]
+    },
+    {
+      "name": "today-sharp",
+      "tags": [
+        "sharp",
+        "today"
+      ]
+    },
+    {
+      "name": "toggle",
+      "tags": [
+        "toggle"
+      ]
+    },
+    {
+      "name": "toggle-outline",
+      "tags": [
+        "outline",
+        "toggle"
+      ]
+    },
+    {
+      "name": "toggle-sharp",
+      "tags": [
+        "sharp",
+        "toggle"
+      ]
+    },
+    {
+      "name": "trail-sign",
+      "tags": [
+        "sign",
+        "trail"
+      ]
+    },
+    {
+      "name": "trail-sign-outline",
+      "tags": [
+        "outline",
+        "sign",
+        "trail"
+      ]
+    },
+    {
+      "name": "trail-sign-sharp",
+      "tags": [
+        "sharp",
+        "sign",
+        "trail"
+      ]
+    },
+    {
+      "name": "train",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "train-outline",
+      "tags": [
+        "outline",
+        "train"
+      ]
+    },
+    {
+      "name": "train-sharp",
+      "tags": [
+        "sharp",
+        "train"
+      ]
+    },
+    {
+      "name": "transgender",
+      "tags": [
+        "transgender"
+      ]
+    },
+    {
+      "name": "transgender-outline",
+      "tags": [
+        "outline",
+        "transgender"
+      ]
+    },
+    {
+      "name": "transgender-sharp",
+      "tags": [
+        "sharp",
+        "transgender"
+      ]
+    },
+    {
+      "name": "trash",
+      "tags": [
+        "trash"
+      ]
+    },
+    {
+      "name": "trash-bin",
+      "tags": [
+        "bin",
+        "trash"
+      ]
+    },
+    {
+      "name": "trash-bin-outline",
+      "tags": [
+        "bin",
+        "outline",
+        "trash"
+      ]
+    },
+    {
+      "name": "trash-bin-sharp",
+      "tags": [
+        "bin",
+        "sharp",
+        "trash"
+      ]
+    },
+    {
+      "name": "trash-outline",
+      "tags": [
+        "outline",
+        "trash"
+      ]
+    },
+    {
+      "name": "trash-sharp",
+      "tags": [
+        "sharp",
+        "trash"
+      ]
+    },
+    {
+      "name": "trending-down",
+      "tags": [
+        "down",
+        "trending"
+      ]
+    },
+    {
+      "name": "trending-down-outline",
+      "tags": [
+        "down",
+        "outline",
+        "trending"
+      ]
+    },
+    {
+      "name": "trending-down-sharp",
+      "tags": [
+        "down",
+        "sharp",
+        "trending"
+      ]
+    },
+    {
+      "name": "trending-up",
+      "tags": [
+        "trending",
+        "up"
+      ]
+    },
+    {
+      "name": "trending-up-outline",
+      "tags": [
+        "outline",
+        "trending",
+        "up"
+      ]
+    },
+    {
+      "name": "trending-up-sharp",
+      "tags": [
+        "sharp",
+        "trending",
+        "up"
+      ]
+    },
+    {
+      "name": "triangle",
+      "tags": [
+        "triangle"
+      ]
+    },
+    {
+      "name": "triangle-outline",
+      "tags": [
+        "outline",
+        "triangle"
+      ]
+    },
+    {
+      "name": "triangle-sharp",
+      "tags": [
+        "sharp",
+        "triangle"
+      ]
+    },
+    {
+      "name": "trophy",
+      "tags": [
+        "trophy"
+      ]
+    },
+    {
+      "name": "trophy-outline",
+      "tags": [
+        "outline",
+        "trophy"
+      ]
+    },
+    {
+      "name": "trophy-sharp",
+      "tags": [
+        "sharp",
+        "trophy"
+      ]
+    },
+    {
+      "name": "tv",
+      "tags": [
+        "tv"
+      ]
+    },
+    {
+      "name": "tv-outline",
+      "tags": [
+        "outline",
+        "tv"
+      ]
+    },
+    {
+      "name": "tv-sharp",
+      "tags": [
+        "sharp",
+        "tv"
+      ]
+    },
+    {
+      "name": "umbrella",
+      "tags": [
+        "umbrella"
+      ]
+    },
+    {
+      "name": "umbrella-outline",
+      "tags": [
+        "outline",
+        "umbrella"
+      ]
+    },
+    {
+      "name": "umbrella-sharp",
+      "tags": [
+        "sharp",
+        "umbrella"
+      ]
+    },
+    {
+      "name": "videocam",
+      "tags": [
+        "videocam"
+      ]
+    },
+    {
+      "name": "videocam-outline",
+      "tags": [
+        "outline",
+        "videocam"
+      ]
+    },
+    {
+      "name": "videocam-sharp",
+      "tags": [
+        "sharp",
+        "videocam"
+      ]
+    },
+    {
+      "name": "volume-high",
+      "tags": [
+        "high",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-high-outline",
+      "tags": [
+        "high",
+        "outline",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-high-sharp",
+      "tags": [
+        "high",
+        "sharp",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-low",
+      "tags": [
+        "low",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-low-outline",
+      "tags": [
+        "low",
+        "outline",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-low-sharp",
+      "tags": [
+        "low",
+        "sharp",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-medium",
+      "tags": [
+        "medium",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-medium-outline",
+      "tags": [
+        "medium",
+        "outline",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-medium-sharp",
+      "tags": [
+        "medium",
+        "sharp",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-mute",
+      "tags": [
+        "mute",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-mute-outline",
+      "tags": [
+        "mute",
+        "outline",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-mute-sharp",
+      "tags": [
+        "mute",
+        "sharp",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-off",
+      "tags": [
+        "off",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-off-outline",
+      "tags": [
+        "off",
+        "outline",
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-off-sharp",
+      "tags": [
+        "off",
+        "sharp",
+        "volume"
+      ]
+    },
+    {
+      "name": "walk",
+      "tags": [
+        "walk"
+      ]
+    },
+    {
+      "name": "walk-outline",
+      "tags": [
+        "outline",
+        "walk"
+      ]
+    },
+    {
+      "name": "walk-sharp",
+      "tags": [
+        "sharp",
+        "walk"
+      ]
+    },
+    {
+      "name": "wallet",
+      "tags": [
+        "wallet"
+      ]
+    },
+    {
+      "name": "wallet-outline",
+      "tags": [
+        "outline",
+        "wallet"
+      ]
+    },
+    {
+      "name": "wallet-sharp",
+      "tags": [
+        "sharp",
+        "wallet"
+      ]
+    },
+    {
+      "name": "warning",
+      "tags": [
+        "warning"
+      ]
+    },
+    {
+      "name": "warning-outline",
+      "tags": [
+        "outline",
+        "warning"
+      ]
+    },
+    {
+      "name": "warning-sharp",
+      "tags": [
+        "sharp",
+        "warning"
+      ]
+    },
+    {
+      "name": "watch",
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "name": "watch-outline",
+      "tags": [
+        "outline",
+        "watch"
+      ]
+    },
+    {
+      "name": "watch-sharp",
+      "tags": [
+        "sharp",
+        "watch"
+      ]
+    },
+    {
+      "name": "water",
+      "tags": [
+        "water"
+      ]
+    },
+    {
+      "name": "water-outline",
+      "tags": [
+        "outline",
+        "water"
+      ]
+    },
+    {
+      "name": "water-sharp",
+      "tags": [
+        "sharp",
+        "water"
+      ]
+    },
+    {
+      "name": "wifi",
+      "tags": [
+        "wifi"
+      ]
+    },
+    {
+      "name": "wifi-outline",
+      "tags": [
+        "outline",
+        "wifi"
+      ]
+    },
+    {
+      "name": "wifi-sharp",
+      "tags": [
+        "sharp",
+        "wifi"
+      ]
+    },
+    {
+      "name": "wine",
+      "tags": [
+        "wine"
+      ]
+    },
+    {
+      "name": "wine-outline",
+      "tags": [
+        "outline",
+        "wine"
+      ]
+    },
+    {
+      "name": "wine-sharp",
+      "tags": [
+        "sharp",
+        "wine"
+      ]
+    },
+    {
+      "name": "woman",
+      "tags": [
+        "woman"
+      ]
+    },
+    {
+      "name": "woman-outline",
+      "tags": [
+        "outline",
+        "woman"
+      ]
+    },
+    {
+      "name": "woman-sharp",
+      "tags": [
+        "sharp",
+        "woman"
+      ]
+    }
+  ]
+}

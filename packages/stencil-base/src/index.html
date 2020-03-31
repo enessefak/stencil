@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <title>Stencil Component Starter</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
+
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      font-size: 15px;
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
+
+  <script type="module" src="/build/stencil-base.esm.js"></script>
+  <script nomodule src="/build/stencil-base.js"></script>
+
+</head>
+
+<body>
+
+  <jsfi-layout>
+    <aside slot="aside"></aside>
+    <header slot="header">
+      <p>Ara</p>
+    </header>
+    <jsfi-call-to-action>
+      <jsfi-button radius outline color="green" icon="call">
+        Answer
+      </jsfi-button>
+
+      <jsfi-button radius outline color="red" icon="call">
+        Hangup
+      </jsfi-button>
+
+      <jsfi-button radius outline color="yellow" icon="hand-right">
+        Hold
+      </jsfi-button>
+
+      <jsfi-button radius outline icon="swap-horizontal">
+        Transfer
+      </jsfi-button>
+
+      <jsfi-button radius outline color="green" icon="people">
+        Conf
+      </jsfi-button>
+
+      <jsfi-button size="sm" radius outline color="red">
+        IVR
+      </jsfi-button>
+    </jsfi-call-to-action>
+
+    <jsfi-card>
+      <jsfi-grid columns="repeat(auto-fit, 150px)" gap="10px">
+        <jsfi-form-element label="Cust No">
+          <jsfi-input placeholder="Cust No" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+        <jsfi-form-element label="Title">
+          <jsfi-input placeholder="Title" type="text"></jsfi-input>
+        </jsfi-form-element>
+
+      </jsfi-grid>
+
+      <jsfi-button>
+        Submit
+      </jsfi-button>
+      <jsfi-button color="red">
+        Home
+      </jsfi-button>
+      <jsfi-button color="yellow">
+        Clear
+      </jsfi-button>
+      <jsfi-button color="purple">
+        Print
+      </jsfi-button>
+
+    </jsfi-card>
+
+    <jsfi-card>
+      <h3>Application</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum totam expedita quam. Ab ipsum repellendus
+        mollitia. Adipisci ipsum alias quisquam magni, mollitia, laudantium doloribus optio aperiam eos possimus omnis
+        eum!</p>
+    </jsfi-card>
+
+  </jsfi-layout>
+
+</body>
+
+</html>

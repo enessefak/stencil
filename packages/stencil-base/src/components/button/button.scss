@@ -1,0 +1,73 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 0.625rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+  @each $name, $size in $sizes {
+    &--#{$name} {
+      @if $name == "sm" {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.8125rem;
+      } @else if $name == "lg" {
+        // padding: .5rem .75rem;
+      }
+    }
+  }
+
+  @each $name, $color in $colors {
+    &--#{$name} {
+      @if $name == "yellow" {
+        color: $link;
+      } @else {
+        color: #fff;
+      }
+
+      background-color: $color;
+
+      &:hover {
+        background-color: darken($color, 8%);
+      }
+
+      &.btn--outline {
+        background-color: transparent;
+        border-color: $color;
+        color: $color;
+
+        &:hover {
+          border-color: darken($color, 8%);
+          color: darken($color, 8%);
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+  &--primary {
+    @extend .btn--blue;
+  }
+
+  &--radius {
+    border-radius: 10rem;
+  }
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &__icon {
+    margin-right: 5px;
+  }
+}

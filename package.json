@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "repository": "https://github.com/enessefak/stencil.git",
+  "author": "enes.sefa.k <enes.sefa.k@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lerna run start --stream",
+    "build": "lerna run build --stream && yarn run start",
+    "publish": "lerna publish",
+    "clean": "lerna clean",
+    "postinstall": "lerna bootstrap"
+  },
+  "workspaces": [
+    "packages/*",
+    "mocks/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}

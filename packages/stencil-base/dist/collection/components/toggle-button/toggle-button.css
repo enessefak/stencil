@@ -1,0 +1,10 @@
+:host .toggle-btn {
+  border: none;
+  padding: 0;
+}
+:host .toggle-btn:hover {
+  cursor: pointer;
+}
+:host .toggle-btn:focus {
+  outline: none;
+}

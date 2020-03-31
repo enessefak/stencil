@@ -1,0 +1,49 @@
+{
+  "name": "stencil-react",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn run clean && yarn run compile",
+    "clean": "rm -rf dist",
+    "compile": "yarn run tsc",
+    "tsc": "tsc -p ."
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "devDependencies": {
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.29",
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "fs-extra": "^8.1.0",
+    "jest": "^25.1.0",
+    "jest-dom": "^4.0.0",
+    "np": "^3.1.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-testing-library": "^8.0.1",
+    "ts-jest": "^25.2.1",
+    "tslint-ionic-rules": "^0.0.21",
+    "tslint-react": "^4.2.0",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "stencil-base": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "setupTestFrameworkScriptFile": "<rootDir>/jest.setup.js",
+    "testPathIgnorePatterns": [
+      "node_modules",
+      "dist"
+    ]
+  }
+}

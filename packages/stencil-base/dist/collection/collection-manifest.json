@@ -1,0 +1,23 @@
+{
+  "entries": [
+    "components/card/card.js",
+    "components/form-element/form-element.js",
+    "components/grid/grid.js",
+    "components/header/header.js",
+    "components/input/input.js",
+    "components/layout/layout.js",
+    "components/toggle-button/toggle-button.js",
+    "components/icon/icon.js",
+    "components/button/button.js",
+    "components/call-to-action/call-to-action.js",
+    "components/label/label.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.8.11",
+    "typescriptVersion": "3.8.2"
+  },
+  "collections": [],
+  "bundles": [],
+  "global": "global/library.js"
+}

@@ -1,0 +1,14 @@
+:host {
+  .toggle-btn {
+    border: none;
+    padding: 0;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.layout {
+  display: grid;
+  grid-template-areas: "aside header" "aside content";
+  grid-template-columns: 200px 1fr;
+  grid-template-rows: auto 1fr;
+  height: 100vh;
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+.layout--open {
+  grid-template-columns: 70px 1fr;
+}
+.layout ::slotted(header) {
+  grid-area: header;
+}
+.layout .content {
+  grid-area: content;
+  background: #f2f2f2;
+  padding: 1.5rem 1.7rem;
+}
+.layout ::slotted(aside) {
+  grid-area: aside;
+  transition: all 0.3s ease-in-out;
+}
