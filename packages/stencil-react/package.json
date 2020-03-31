@@ -1,6 +1,6 @@
 {
   "name": "stencil-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "build": "yarn run clean && yarn run compile",
@@ -32,7 +32,7 @@
     "typescript": "^3.3.4000"
   },
   "dependencies": {
-    "stencil-base": "^1.0.0"
+    "stencil-base": "^1.0.1"
   },
   "peerDependencies": {
     "react": "^16.13.0",
